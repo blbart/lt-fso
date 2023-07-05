@@ -1,0 +1,4510 @@
+
+
+
+
+﻿PokerStars Hand #244549559429: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 20:36:26 CET [2023/06/30 14:36:26 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1500 in chips) 
+Seat 3: assad_17 (1500 in chips) 
+Seat 4: Carlos ASTA (1500 in chips) 
+Seat 5: jjulim (1500 in chips) 
+Seat 6: blabart (1500 in chips) 
+Seat 7: DanRussel (1500 in chips) 
+Seat 8: palamarchyk88 (1500 in chips) 
+Seat 9: Albo Aguilar (1500 in chips) 
+kzl91: posts small blind 10
+assad_17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to blabart [5c 9d]
+Carlos ASTA: calls 20
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: checks 
+*** FLOP *** [Qd 3s 8s]
+assad_17: bets 60
+Carlos ASTA: calls 60
+*** TURN *** [Qd 3s 8s] [6s]
+assad_17: bets 170
+Carlos ASTA: calls 170
+*** RIVER *** [Qd 3s 8s 6s] [5d]
+assad_17: checks 
+Carlos ASTA: checks 
+*** SHOW DOWN ***
+assad_17: shows [Ah Qs] (a pair of Queens)
+Carlos ASTA: mucks hand 
+assad_17 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Qd 3s 8s 6s 5d]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 3: assad_17 (big blind) showed [Ah Qs] and won (510) with a pair of Queens
+Seat 4: Carlos ASTA mucked [As 8h]
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549580964: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 20:37:38 CET [2023/06/30 14:37:38 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1760 in chips) 
+Seat 4: Carlos ASTA (1250 in chips) 
+Seat 5: jjulim (1500 in chips) 
+Seat 6: blabart (1500 in chips) 
+Seat 7: DanRussel (1500 in chips) 
+Seat 8: palamarchyk88 (1500 in chips) 
+Seat 9: Albo Aguilar (1500 in chips) 
+assad_17: posts small blind 10
+Carlos ASTA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to blabart [4d 8h]
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Uncalled bet (10) returned to Carlos ASTA
+Carlos ASTA collected 20 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 3: assad_17 (small blind) folded before Flop
+Seat 4: Carlos ASTA (big blind) collected (20)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549584881: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 20:37:51 CET [2023/06/30 14:37:51 ET]
+Table '3610895633 1' 9-max Seat #3 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1750 in chips) 
+Seat 4: Carlos ASTA (1260 in chips) 
+Seat 5: jjulim (1500 in chips) 
+Seat 6: blabart (1500 in chips) 
+Seat 7: DanRussel (1500 in chips) 
+Seat 8: palamarchyk88 (1500 in chips) 
+Seat 9: Albo Aguilar (1500 in chips) 
+Carlos ASTA: posts small blind 10
+jjulim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to blabart [Tc 7d]
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: raises 50 to 70
+JKPK24: folds 
+kzl91: folds 
+assad_17: calls 70
+Carlos ASTA: folds 
+jjulim: calls 50
+*** FLOP *** [Qh Kd 6d]
+jjulim: checks 
+Albo Aguilar: bets 110
+assad_17: folds 
+jjulim: folds 
+Uncalled bet (110) returned to Albo Aguilar
+Albo Aguilar collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Qh Kd 6d]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 (button) folded on the Flop
+Seat 4: Carlos ASTA (small blind) folded before Flop
+Seat 5: jjulim (big blind) folded on the Flop
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar collected (220)
+
+
+
+PokerStars Hand #244549601385: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 20:38:46 CET [2023/06/30 14:38:46 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1250 in chips) 
+Seat 5: jjulim (1430 in chips) 
+Seat 6: blabart (1500 in chips) 
+Seat 7: DanRussel (1500 in chips) 
+Seat 8: palamarchyk88 (1500 in chips) 
+Seat 9: Albo Aguilar (1650 in chips) 
+jjulim: posts small blind 10
+blabart: posts big blind 20
+*** HOLE CARDS ***
+Dealt to blabart [6d Tc]
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar has timed out
+Albo Aguilar: folds 
+Albo Aguilar is sitting out
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 20
+Albo Aguilar is disconnected 
+jjulim: calls 10
+blabart: checks 
+*** FLOP *** [Qc 8s Ts]
+jjulim: checks 
+blabart: bets 20
+Carlos ASTA: folds 
+Albo Aguilar has returned
+jjulim: calls 20
+*** TURN *** [Qc 8s Ts] [7s]
+jjulim: checks 
+blabart: bets 20
+jjulim: calls 20
+*** RIVER *** [Qc 8s Ts 7s] [Jc]
+jjulim: checks 
+blabart: bets 20
+jjulim: calls 20
+*** SHOW DOWN ***
+blabart: shows [6d Tc] (a pair of Tens)
+jjulim: shows [3s Js] (a flush, Jack high)
+jjulim collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qc 8s Ts 7s Jc]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded on the Flop
+Seat 5: jjulim (small blind) showed [3s Js] and won (180) with a flush, Jack high
+Seat 6: blabart (big blind) showed [6d Tc] and lost with a pair of Tens
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549624166: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 20:40:02 CET [2023/06/30 14:40:02 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1230 in chips) 
+Seat 5: jjulim (1530 in chips) 
+Seat 6: blabart (1420 in chips) 
+Seat 7: DanRussel (1500 in chips) 
+Seat 8: palamarchyk88 (1500 in chips) 
+Seat 9: Albo Aguilar (1650 in chips) 
+blabart: posts small blind 10
+DanRussel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to blabart [5c Ac]
+palamarchyk88: folds 
+Albo Aguilar: calls 20
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 20
+jjulim: calls 20
+blabart: raises 20 to 40
+DanRussel: folds 
+Albo Aguilar: calls 20
+Carlos ASTA: calls 20
+jjulim: calls 20
+*** FLOP *** [As Ad 2s]
+blabart: bets 90
+Albo Aguilar: folds 
+Carlos ASTA: folds 
+jjulim: calls 90
+*** TURN *** [As Ad 2s] [3h]
+blabart: bets 20
+jjulim: calls 20
+*** RIVER *** [As Ad 2s 3h] [9c]
+blabart: bets 20
+jjulim: raises 80 to 100
+blabart: calls 80
+*** SHOW DOWN ***
+jjulim: shows [9s Ah] (a full house, Aces full of Nines)
+blabart: mucks hand 
+jjulim collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [As Ad 2s 3h 9c]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded on the Flop
+Seat 5: jjulim (button) showed [9s Ah] and won (600) with a full house, Aces full of Nines
+Seat 6: blabart (small blind) mucked [5c Ac]
+Seat 7: DanRussel (big blind) folded before Flop
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded on the Flop
+
+
+
+PokerStars Hand #244549639226: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 20:40:52 CET [2023/06/30 14:40:52 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1190 in chips) 
+Seat 5: jjulim (1880 in chips) 
+Seat 6: blabart (1170 in chips) 
+Seat 7: DanRussel (1480 in chips) 
+Seat 8: palamarchyk88 (1500 in chips) 
+Seat 9: Albo Aguilar (1610 in chips) 
+DanRussel: posts small blind 10
+palamarchyk88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to blabart [Tc 2c]
+Albo Aguilar has timed out
+Albo Aguilar: folds 
+Albo Aguilar is sitting out
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Albo Aguilar has returned
+Carlos ASTA has timed out
+Carlos ASTA: folds 
+Carlos ASTA is sitting out
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Uncalled bet (10) returned to palamarchyk88
+palamarchyk88 collected 20 from pot
+palamarchyk88: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 8: palamarchyk88 (big blind) collected (20)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549652479: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 20:41:36 CET [2023/06/30 14:41:36 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1190 in chips) is sitting out
+Seat 5: jjulim (1880 in chips) 
+Seat 6: blabart (1170 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1510 in chips) 
+Seat 9: Albo Aguilar (1610 in chips) 
+palamarchyk88: posts small blind 15
+Albo Aguilar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to blabart [3s 4c]
+Carlos ASTA has returned
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 30
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: checks 
+*** FLOP *** [4s 7s Tc]
+Albo Aguilar: checks 
+Carlos ASTA: bets 75
+Albo Aguilar: calls 75
+*** TURN *** [4s 7s Tc] [5c]
+Albo Aguilar: checks 
+Carlos ASTA: bets 225
+Albo Aguilar: calls 225
+*** RIVER *** [4s 7s Tc 5c] [Jd]
+Albo Aguilar: checks 
+Carlos ASTA: checks 
+*** SHOW DOWN ***
+Albo Aguilar: shows [5s Ks] (a pair of Fives)
+Carlos ASTA: shows [7h Qc] (a pair of Sevens)
+Carlos ASTA collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [4s 7s Tc 5c Jd]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA showed [7h Qc] and won (675) with a pair of Sevens
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+Seat 8: palamarchyk88 (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) showed [5s Ks] and lost with a pair of Fives
+
+
+
+PokerStars Hand #244549677015: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 20:42:58 CET [2023/06/30 14:42:58 ET]
+Table '3610895633 1' 9-max Seat #8 is the button
+Seat 1: JKPK24 (1500 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1535 in chips) 
+Seat 5: jjulim (1880 in chips) 
+Seat 6: blabart (1170 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1495 in chips) 
+Seat 9: Albo Aguilar (1280 in chips) 
+Albo Aguilar: posts small blind 15
+JKPK24: posts big blind 30
+*** HOLE CARDS ***
+Dealt to blabart [2s 6h]
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 30
+jjulim: raises 60 to 90
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+Carlos ASTA: calls 60
+*** FLOP *** [Ks 3s Kd]
+Carlos ASTA: checks 
+jjulim: bets 60
+Carlos ASTA: folds 
+Uncalled bet (60) returned to jjulim
+jjulim collected 225 from pot
+jjulim: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [Ks 3s Kd]
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded on the Flop
+Seat 5: jjulim collected (225)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 (button) folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (small blind) folded before Flop
+
+
+
+PokerStars Hand #244549690417: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 20:43:42 CET [2023/06/30 14:43:42 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (1470 in chips) 
+Seat 2: kzl91 (1490 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1445 in chips) 
+Seat 5: jjulim (2015 in chips) 
+Seat 6: blabart (1170 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1495 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+JKPK24: posts small blind 15
+kzl91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to blabart [9c Qc]
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: calls 30
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: checks 
+*** FLOP *** [Jh 9s Qs]
+kzl91: checks 
+blabart: bets 75
+kzl91: folds 
+Uncalled bet (75) returned to blabart
+blabart collected 75 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Jh 9s Qs]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded on the Flop
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart collected (75)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549699357: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 20:44:11 CET [2023/06/30 14:44:11 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1455 in chips) 
+Seat 2: kzl91 (1460 in chips) 
+Seat 3: assad_17 (1680 in chips) 
+Seat 4: Carlos ASTA (1445 in chips) 
+Seat 5: jjulim (2015 in chips) 
+Seat 6: blabart (1215 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1495 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+kzl91: posts small blind 15
+assad_17: posts big blind 30
+*** HOLE CARDS ***
+Dealt to blabart [3s 2h]
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: raises 60 to 90
+Albo Aguilar: folds 
+JKPK24: calls 90
+kzl91: folds 
+assad_17: folds 
+*** FLOP *** [2d 4d 7h]
+palamarchyk88: bets 173
+JKPK24: calls 173
+*** TURN *** [2d 4d 7h] [6c]
+palamarchyk88: bets 200
+JKPK24: calls 200
+*** RIVER *** [2d 4d 7h 6c] [Qh]
+palamarchyk88: checks 
+JKPK24: checks 
+*** SHOW DOWN ***
+palamarchyk88: shows [Jd Ad] (high card Ace)
+JKPK24: shows [Kd Kc] (a pair of Kings)
+JKPK24 collected 971 from pot
+*** SUMMARY ***
+Total pot 971 | Rake 0 
+Board [2d 4d 7h 6c Qh]
+Seat 1: JKPK24 (button) showed [Kd Kc] and won (971) with a pair of Kings
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 3: assad_17 (big blind) folded before Flop
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 showed [Jd Ad] and lost with high card Ace
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549710454: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 20:44:47 CET [2023/06/30 14:44:47 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1963 in chips) 
+Seat 2: kzl91 (1445 in chips) 
+Seat 3: assad_17 (1650 in chips) 
+Seat 4: Carlos ASTA (1445 in chips) 
+Seat 5: jjulim (2015 in chips) 
+Seat 6: blabart (1215 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1032 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+assad_17: posts small blind 15
+Carlos ASTA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to blabart [6d Jc]
+jjulim: raises 30 to 60
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 30
+*** FLOP *** [7d 4c Ad]
+Carlos ASTA: checks 
+jjulim: bets 90
+Carlos ASTA: folds 
+Uncalled bet (90) returned to jjulim
+jjulim collected 135 from pot
+jjulim: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7d 4c Ad]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 3: assad_17 (small blind) folded before Flop
+Seat 4: Carlos ASTA (big blind) folded on the Flop
+Seat 5: jjulim collected (135)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549722922: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 20:45:27 CET [2023/06/30 14:45:27 ET]
+Table '3610895633 1' 9-max Seat #3 is the button
+Seat 1: JKPK24 (1963 in chips) 
+Seat 2: kzl91 (1445 in chips) 
+Seat 3: assad_17 (1635 in chips) 
+Seat 4: Carlos ASTA (1385 in chips) 
+Seat 5: jjulim (2090 in chips) 
+Seat 6: blabart (1215 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1032 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+Carlos ASTA: posts small blind 15
+jjulim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to blabart [8c Qs]
+blabart: folds 
+DanRussel: folds 
+palamarchyk88: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: raises 45 to 75
+assad_17: calls 75
+Carlos ASTA: calls 60
+jjulim: calls 45
+*** FLOP *** [9s 6c 6h]
+Carlos ASTA: checks 
+jjulim: checks 
+kzl91: bets 153
+assad_17: folds 
+Carlos ASTA: calls 153
+jjulim: folds 
+*** TURN *** [9s 6c 6h] [5c]
+Carlos ASTA: checks 
+kzl91: bets 309
+Carlos ASTA: folds 
+Uncalled bet (309) returned to kzl91
+kzl91 collected 606 from pot
+kzl91: doesn't show hand 
+*** SUMMARY ***
+Total pot 606 | Rake 0 
+Board [9s 6c 6h 5c]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 collected (606)
+Seat 3: assad_17 (button) folded on the Flop
+Seat 4: Carlos ASTA (small blind) folded on the Turn
+Seat 5: jjulim (big blind) folded on the Flop
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549743508: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:46:35 CET [2023/06/30 14:46:35 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (1963 in chips) 
+Seat 2: kzl91 (1823 in chips) 
+Seat 3: assad_17 (1560 in chips) 
+Seat 4: Carlos ASTA (1157 in chips) 
+Seat 5: jjulim (2015 in chips) 
+Seat 6: blabart (1215 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 8: palamarchyk88 (1032 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+jjulim: posts small blind 25
+blabart: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [6h 3h]
+DanRussel: folds 
+palamarchyk88: raises 100 to 150
+Albo Aguilar has timed out
+Albo Aguilar: folds 
+Albo Aguilar is sitting out
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: calls 100
+*** FLOP *** [3c 7c 6s]
+blabart: checks 
+palamarchyk88: checks 
+*** TURN *** [3c 7c 6s] [Qd]
+blabart: bets 50
+palamarchyk88: raises 832 to 882 and is all-in
+blabart: calls 832
+*** RIVER *** [3c 7c 6s Qd] [6d]
+*** SHOW DOWN ***
+blabart: shows [6h 3h] (a full house, Sixes full of Threes)
+palamarchyk88: shows [Ad Qh] (two pair, Queens and Sixes)
+blabart collected 2089 from pot
+palamarchyk88 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2089 | Rake 0 
+Board [3c 7c 6s Qd 6d]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded before Flop (didn't bet)
+Seat 5: jjulim (small blind) folded before Flop
+Seat 6: blabart (big blind) showed [6h 3h] and won (2089) with a full house, Sixes full of Threes
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 8: palamarchyk88 showed [Ad Qh] and lost with two pair, Queens and Sixes
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549757192: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:47:20 CET [2023/06/30 14:47:20 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (1963 in chips) 
+Seat 2: kzl91 (1823 in chips) 
+Seat 3: assad_17 (1560 in chips) 
+Seat 4: Carlos ASTA (1157 in chips) 
+Seat 5: jjulim (1990 in chips) 
+Seat 6: blabart (2272 in chips) 
+Seat 7: DanRussel (1470 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) is sitting out
+blabart: posts small blind 25
+DanRussel: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [2d 5s]
+Albo Aguilar: folds 
+JKPK24: calls 50
+kzl91: raises 75 to 125
+assad_17: folds 
+Carlos ASTA: calls 125
+jjulim: calls 125
+blabart: folds 
+DanRussel: folds 
+JKPK24: calls 75
+*** FLOP *** [7d 8d 6h]
+JKPK24: checks 
+kzl91: checks 
+Carlos ASTA: checks 
+jjulim: checks 
+*** TURN *** [7d 8d 6h] [Ts]
+Albo Aguilar has returned
+JKPK24: checks 
+kzl91: checks 
+Carlos ASTA: bets 288
+jjulim: folds 
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (288) returned to Carlos ASTA
+Carlos ASTA collected 575 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [7d 8d 6h Ts]
+Seat 1: JKPK24 folded on the Turn
+Seat 2: kzl91 folded on the Turn
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA collected (575)
+Seat 5: jjulim (button) folded on the Turn
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) folded before Flop
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549780023: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:48:35 CET [2023/06/30 14:48:35 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (1838 in chips) 
+Seat 2: kzl91 (1698 in chips) 
+Seat 3: assad_17 (1560 in chips) 
+Seat 4: Carlos ASTA (1607 in chips) 
+Seat 5: jjulim (1865 in chips) 
+Seat 6: blabart (2247 in chips) 
+Seat 7: DanRussel (1420 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+DanRussel: posts small blind 25
+Albo Aguilar: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [7h Qh]
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: calls 50
+DanRussel: folds 
+Albo Aguilar: checks 
+*** FLOP *** [8s Ad 4h]
+Albo Aguilar: bets 63
+blabart: folds 
+Uncalled bet (63) returned to Albo Aguilar
+Albo Aguilar collected 125 from pot
+Albo Aguilar: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [8s Ad 4h]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) folded on the Flop
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) collected (125)
+
+
+
+PokerStars Hand #244549789161: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:49:05 CET [2023/06/30 14:49:05 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (1838 in chips) 
+Seat 2: kzl91 (1698 in chips) 
+Seat 3: assad_17 (1560 in chips) 
+Seat 4: Carlos ASTA (1607 in chips) 
+Seat 5: jjulim (1865 in chips) 
+Seat 6: blabart (2197 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1340 in chips) 
+Albo Aguilar: posts small blind 25
+JKPK24: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [6s 6h]
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: raises 50 to 100
+jjulim: folds 
+blabart: calls 100
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+*** FLOP *** [Qc 7h 8h]
+Carlos ASTA: checks 
+blabart: checks 
+*** TURN *** [Qc 7h 8h] [4d]
+Carlos ASTA: checks 
+blabart: bets 275
+Carlos ASTA: folds 
+Uncalled bet (275) returned to blabart
+blabart collected 275 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [Qc 7h 8h 4d]
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded on the Turn
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart collected (275)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (small blind) folded before Flop
+
+
+
+PokerStars Hand #244549805690: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:50:00 CET [2023/06/30 14:50:00 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (1788 in chips) 
+Seat 2: kzl91 (1698 in chips) 
+Seat 3: assad_17 (1560 in chips) 
+Seat 4: Carlos ASTA (1507 in chips) 
+Seat 5: jjulim (1865 in chips) 
+Seat 6: blabart (2372 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+JKPK24: posts small blind 25
+kzl91: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [6h Jd]
+assad_17: folds 
+Carlos ASTA: calls 50
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: checks 
+*** FLOP *** [Kh 5c 9d]
+kzl91: checks 
+Carlos ASTA: checks 
+*** TURN *** [Kh 5c 9d] [4h]
+kzl91: checks 
+Carlos ASTA: bets 100
+kzl91: folds 
+Uncalled bet (100) returned to Carlos ASTA
+Carlos ASTA collected 125 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [Kh 5c 9d 4h]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded on the Turn
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA collected (125)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549815873: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:50:33 CET [2023/06/30 14:50:33 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1763 in chips) 
+Seat 2: kzl91 (1648 in chips) 
+Seat 3: assad_17 (1560 in chips) 
+Seat 4: Carlos ASTA (1582 in chips) 
+Seat 5: jjulim (1865 in chips) 
+Seat 6: blabart (2372 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+kzl91: posts small blind 25
+assad_17: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [Ks 3s]
+Carlos ASTA: raises 50 to 100
+jjulim: calls 100
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+*** FLOP *** [Ac 3h 8s]
+Carlos ASTA: checks 
+jjulim: checks 
+*** TURN *** [Ac 3h 8s] [2h]
+Carlos ASTA: checks 
+jjulim: checks 
+*** RIVER *** [Ac 3h 8s 2h] [Js]
+Carlos ASTA: bets 150
+jjulim: calls 150
+*** SHOW DOWN ***
+Carlos ASTA: shows [Qh Qs] (a pair of Queens)
+jjulim: mucks hand 
+Carlos ASTA collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [Ac 3h 8s 2h Js]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 3: assad_17 (big blind) folded before Flop
+Seat 4: Carlos ASTA showed [Qh Qs] and won (575) with a pair of Queens
+Seat 5: jjulim mucked [7d 7c]
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549825644: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2023/06/30 20:51:05 CET [2023/06/30 14:51:05 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1763 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (1510 in chips) 
+Seat 4: Carlos ASTA (1907 in chips) 
+Seat 5: jjulim (1615 in chips) 
+Seat 6: blabart (2372 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+assad_17: posts small blind 25
+Carlos ASTA: posts big blind 50
+*** HOLE CARDS ***
+Dealt to blabart [8h Qd]
+jjulim: folds 
+blabart: calls 50
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: calls 50
+kzl91: folds 
+assad_17: calls 25
+Carlos ASTA: checks 
+*** FLOP *** [2s Ah 3h]
+assad_17: checks 
+Carlos ASTA: checks 
+blabart: bets 50
+JKPK24: calls 50
+assad_17: raises 350 to 400
+Carlos ASTA: folds 
+blabart: folds 
+JKPK24: calls 350
+*** TURN *** [2s Ah 3h] [3d]
+assad_17: bets 250
+JKPK24: calls 250
+*** RIVER *** [2s Ah 3h 3d] [6h]
+assad_17: checks 
+JKPK24: checks 
+*** SHOW DOWN ***
+assad_17: shows [As 9c] (two pair, Aces and Threes)
+JKPK24: shows [Ac Kh] (two pair, Aces and Threes - King kicker)
+JKPK24 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Board [2s Ah 3h 3d 6h]
+Seat 1: JKPK24 showed [Ac Kh] and won (1550) with two pair, Aces and Threes
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 3: assad_17 (small blind) showed [As 9c] and lost with two pair, Aces and Threes
+Seat 4: Carlos ASTA (big blind) folded on the Flop
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded on the Flop
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549854361: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2023/06/30 20:52:39 CET [2023/06/30 14:52:39 ET]
+Table '3610895633 1' 9-max Seat #3 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (1857 in chips) 
+Seat 5: jjulim (1615 in chips) 
+Seat 6: blabart (2272 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+Carlos ASTA: posts small blind 50
+jjulim: posts big blind 100
+*** HOLE CARDS ***
+Dealt to blabart [2h 6d]
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: calls 100
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 50
+jjulim: checks 
+*** FLOP *** [Kc Jh 3s]
+Carlos ASTA: bets 150
+jjulim: folds 
+JKPK24: calls 150
+*** TURN *** [Kc Jh 3s] [7d]
+Carlos ASTA: bets 100
+JKPK24: calls 100
+*** RIVER *** [Kc Jh 3s 7d] [2c]
+Carlos ASTA: bets 100
+JKPK24: calls 100
+*** SHOW DOWN ***
+Carlos ASTA: shows [Kd Td] (a pair of Kings)
+JKPK24: mucks hand 
+Carlos ASTA collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Kc Jh 3s 7d 2c]
+Seat 1: JKPK24 mucked [Tc Jc]
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 (button) folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (small blind) showed [Kd Td] and won (1000) with a pair of Kings
+Seat 5: jjulim (big blind) folded on the Flop
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549866543: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2023/06/30 20:53:20 CET [2023/06/30 14:53:20 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (2163 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2407 in chips) 
+Seat 5: jjulim (1515 in chips) 
+Seat 6: blabart (2272 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+jjulim: posts small blind 50
+blabart: posts big blind 100
+*** HOLE CARDS ***
+Dealt to blabart [7h Tc]
+DanRussel: raises 1295 to 1395 and is all-in
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+Uncalled bet (1295) returned to DanRussel
+DanRussel collected 250 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded before Flop (didn't bet)
+Seat 5: jjulim (small blind) folded before Flop
+Seat 6: blabart (big blind) folded before Flop
+Seat 7: DanRussel collected (250)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549875921: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2023/06/30 20:53:51 CET [2023/06/30 14:53:51 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (2163 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2407 in chips) 
+Seat 5: jjulim (1465 in chips) 
+Seat 6: blabart (2172 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+blabart: posts small blind 50
+DanRussel: posts big blind 100
+*** HOLE CARDS ***
+Dealt to blabart [3c 5s]
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: calls 50
+DanRussel: checks 
+*** FLOP *** [2s Th 5c]
+blabart: bets 100
+DanRussel: folds 
+Uncalled bet (100) returned to blabart
+blabart collected 200 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2s Th 5c]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) collected (200)
+Seat 7: DanRussel (big blind) folded on the Flop
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549884589: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2023/06/30 20:54:20 CET [2023/06/30 14:54:20 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2163 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2407 in chips) 
+Seat 5: jjulim (1465 in chips) 
+Seat 6: blabart (2272 in chips) 
+Seat 7: DanRussel (1445 in chips) 
+Seat 9: Albo Aguilar (1315 in chips) 
+DanRussel: posts small blind 50
+Albo Aguilar: posts big blind 100
+*** HOLE CARDS ***
+Dealt to blabart [5d 7h]
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 100
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: checks 
+*** FLOP *** [2s 9d Kh]
+Albo Aguilar: checks 
+Carlos ASTA: checks 
+*** TURN *** [2s 9d Kh] [8s]
+Albo Aguilar: checks 
+Carlos ASTA: checks 
+*** RIVER *** [2s 9d Kh 8s] [6s]
+Albo Aguilar: bets 250
+Carlos ASTA: folds 
+Uncalled bet (250) returned to Albo Aguilar
+Albo Aguilar collected 250 from pot
+Albo Aguilar: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [2s 9d Kh 8s 6s]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded on the River
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) collected (250)
+
+
+
+PokerStars Hand #244549901246: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2023/06/30 20:55:14 CET [2023/06/30 14:55:14 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2163 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2307 in chips) 
+Seat 5: jjulim (1465 in chips) 
+Seat 6: blabart (2272 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1465 in chips) 
+Albo Aguilar: posts small blind 50
+JKPK24: posts big blind 100
+*** HOLE CARDS ***
+Dealt to blabart [3s 5d]
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 100
+jjulim: calls 100
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: checks 
+*** FLOP *** [7d 2d Tc]
+JKPK24: bets 100
+Carlos ASTA: calls 100
+jjulim: folds 
+*** TURN *** [7d 2d Tc] [3c]
+JKPK24: checks 
+Carlos ASTA: bets 200
+JKPK24: calls 200
+*** RIVER *** [7d 2d Tc 3c] [7c]
+JKPK24: checks 
+Carlos ASTA: bets 200
+JKPK24: calls 200
+*** SHOW DOWN ***
+Carlos ASTA: shows [Kc 9h] (a pair of Sevens)
+JKPK24: shows [Jh Ts] (two pair, Tens and Sevens)
+JKPK24 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [7d 2d Tc 3c 7c]
+Seat 1: JKPK24 (big blind) showed [Jh Ts] and won (1350) with two pair, Tens and Sevens
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA showed [Kc 9h] and lost with a pair of Sevens
+Seat 5: jjulim folded on the Flop
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (small blind) folded before Flop
+
+
+
+PokerStars Hand #244549915591: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2023/06/30 20:56:18 CET [2023/06/30 14:56:18 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (2913 in chips) 
+Seat 2: kzl91 (1623 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (1707 in chips) 
+Seat 5: jjulim (1365 in chips) 
+Seat 6: blabart (2272 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+JKPK24: posts small blind 50
+kzl91: posts big blind 100
+*** HOLE CARDS ***
+Dealt to blabart [9s Js]
+assad_17: folds 
+Carlos ASTA: calls 100
+jjulim: folds 
+blabart: calls 100
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: calls 50
+kzl91: checks 
+*** FLOP *** [4c Td 2c]
+JKPK24: bets 100
+kzl91: folds 
+Carlos ASTA: raises 100 to 200
+blabart: folds 
+JKPK24: calls 100
+*** TURN *** [4c Td 2c] [Ad]
+JKPK24: checks 
+Carlos ASTA: bets 300
+JKPK24: folds 
+Uncalled bet (300) returned to Carlos ASTA
+Carlos ASTA collected 800 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [4c Td 2c Ad]
+Seat 1: JKPK24 (small blind) folded on the Turn
+Seat 2: kzl91 (big blind) folded on the Flop
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA collected (800)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded on the Flop
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549927938: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 20:57:13 CET [2023/06/30 14:57:13 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1523 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2207 in chips) 
+Seat 5: jjulim (1365 in chips) 
+Seat 6: blabart (2172 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+kzl91: posts small blind 75
+assad_17: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [4d As]
+Carlos ASTA: raises 150 to 300
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Uncalled bet (150) returned to Carlos ASTA
+Carlos ASTA collected 375 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 3: assad_17 (big blind) folded before Flop
+Seat 4: Carlos ASTA collected (375)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549931182: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 20:57:28 CET [2023/06/30 14:57:28 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (660 in chips) 
+Seat 4: Carlos ASTA (2432 in chips) 
+Seat 5: jjulim (1365 in chips) 
+Seat 6: blabart (2172 in chips) 
+Seat 7: DanRussel (1395 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+assad_17: posts small blind 75
+Carlos ASTA: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [9c 2c]
+jjulim: calls 150
+blabart: folds 
+DanRussel: raises 1245 to 1395 and is all-in
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+Uncalled bet (1245) returned to DanRussel
+DanRussel collected 525 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 3: assad_17 (small blind) folded before Flop
+Seat 4: Carlos ASTA (big blind) folded before Flop
+Seat 5: jjulim folded before Flop
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel collected (525)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549937720: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 20:57:57 CET [2023/06/30 14:57:57 ET]
+Table '3610895633 1' 9-max Seat #3 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (585 in chips) 
+Seat 4: Carlos ASTA (2282 in chips) 
+Seat 5: jjulim (1215 in chips) 
+Seat 6: blabart (2172 in chips) 
+Seat 7: DanRussel (1770 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+Carlos ASTA: posts small blind 75
+jjulim: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [5d 5c]
+blabart: calls 150
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: checks 
+*** FLOP *** [4h 7s 5s]
+jjulim: checks 
+blabart: bets 375
+jjulim: folds 
+Uncalled bet (375) returned to blabart
+blabart collected 375 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [4h 7s 5s]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 (button) folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (small blind) folded before Flop
+Seat 5: jjulim (big blind) folded on the Flop
+Seat 6: blabart collected (375)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549945416: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 20:58:31 CET [2023/06/30 14:58:31 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (585 in chips) 
+Seat 4: Carlos ASTA (2207 in chips) 
+Seat 5: jjulim (1065 in chips) 
+Seat 6: blabart (2397 in chips) 
+Seat 7: DanRussel (1770 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+jjulim: posts small blind 75
+blabart: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [Ts 9h]
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: calls 75
+blabart: checks 
+*** FLOP *** [Td Tc 4s]
+jjulim: checks 
+blabart: bets 300
+jjulim: folds 
+Uncalled bet (300) returned to blabart
+blabart collected 300 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Td Tc 4s]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded before Flop (didn't bet)
+Seat 5: jjulim (small blind) folded on the Flop
+Seat 6: blabart (big blind) collected (300)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549952159: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 20:59:01 CET [2023/06/30 14:59:01 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (585 in chips) 
+Seat 4: Carlos ASTA (2207 in chips) 
+Seat 5: jjulim (915 in chips) 
+Seat 6: blabart (2547 in chips) 
+Seat 7: DanRussel (1770 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+blabart: posts small blind 75
+DanRussel: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [8h Jc]
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: raises 300 to 450
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Uncalled bet (300) returned to assad_17
+assad_17 collected 375 from pot
+assad_17: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 collected (375)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) folded before Flop
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549960314: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 20:59:37 CET [2023/06/30 14:59:37 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2207 in chips) 
+Seat 5: jjulim (915 in chips) 
+Seat 6: blabart (2472 in chips) 
+Seat 7: DanRussel (1620 in chips) 
+Seat 9: Albo Aguilar (1415 in chips) 
+DanRussel: posts small blind 75
+Albo Aguilar: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [Ah 8d]
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: raises 150 to 300
+DanRussel: folds 
+Albo Aguilar: folds 
+Uncalled bet (150) returned to blabart
+blabart collected 375 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) collected (375)
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) folded before Flop
+
+
+
+PokerStars Hand #244549965549: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 21:00:01 CET [2023/06/30 15:00:01 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2613 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2207 in chips) 
+Seat 5: jjulim (915 in chips) 
+Seat 6: blabart (2697 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (1265 in chips) 
+Albo Aguilar: posts small blind 75
+JKPK24: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [9c 6c]
+kzl91: raises 1298 to 1448 and is all-in
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+Uncalled bet (1298) returned to kzl91
+kzl91 collected 375 from pot
+kzl91: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 collected (375)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (small blind) folded before Flop
+
+
+
+PokerStars Hand #244549970388: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 21:00:19 CET [2023/06/30 15:00:19 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (2463 in chips) 
+Seat 2: kzl91 (1673 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2207 in chips) 
+Seat 5: jjulim (915 in chips) 
+Seat 6: blabart (2697 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) 
+JKPK24: posts small blind 75
+kzl91: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [7d 2c]
+assad_17: folds 
+Carlos ASTA: calls 150
+jjulim: raises 765 to 915 and is all-in
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+Carlos ASTA: calls 765
+*** FLOP *** [Kc Ad 6h]
+*** TURN *** [Kc Ad 6h] [8c]
+*** RIVER *** [Kc Ad 6h 8c] [8s]
+*** SHOW DOWN ***
+Carlos ASTA: shows [Qs As] (two pair, Aces and Eights)
+jjulim: shows [Jh Ac] (two pair, Aces and Eights)
+Carlos ASTA collected 1028 from pot
+jjulim collected 1027 from pot
+*** SUMMARY ***
+Total pot 2055 | Rake 0 
+Board [Kc Ad 6h 8c 8s]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded before Flop
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA showed [Qs As] and won (1028) with two pair, Aces and Eights
+Seat 5: jjulim showed [Jh Ac] and won (1027) with two pair, Aces and Eights
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549979251: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2023/06/30 21:00:53 CET [2023/06/30 15:00:53 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (2388 in chips) 
+Seat 2: kzl91 (1523 in chips) 
+Seat 3: assad_17 (810 in chips) 
+Seat 4: Carlos ASTA (2320 in chips) 
+Seat 5: jjulim (1027 in chips) 
+Seat 6: blabart (2697 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) 
+kzl91: posts small blind 75
+assad_17: posts big blind 150
+*** HOLE CARDS ***
+Dealt to blabart [9s Jd]
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar has timed out
+Albo Aguilar: folds 
+Albo Aguilar is sitting out
+JKPK24: calls 150
+kzl91: folds 
+assad_17: checks 
+*** FLOP *** [Kh Tc 9c]
+assad_17: checks 
+JKPK24: checks 
+*** TURN *** [Kh Tc 9c] [3d]
+assad_17: checks 
+JKPK24: checks 
+*** RIVER *** [Kh Tc 9c 3d] [Js]
+assad_17: bets 660 and is all-in
+JKPK24: folds 
+Uncalled bet (660) returned to assad_17
+assad_17 collected 375 from pot
+assad_17: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Kh Tc 9c 3d Js]
+Seat 1: JKPK24 (button) folded on the River
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 3: assad_17 (big blind) collected (375)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244549994816: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:01:49 CET [2023/06/30 15:01:49 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (2238 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (1035 in chips) 
+Seat 4: Carlos ASTA (2320 in chips) 
+Seat 5: jjulim (1027 in chips) 
+Seat 6: blabart (2697 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) is sitting out
+assad_17: posts small blind 100
+Carlos ASTA: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [Td Ad]
+jjulim: raises 827 to 1027 and is all-in
+blabart: calls 1027
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+*** FLOP *** [4c 9h Qd]
+*** TURN *** [4c 9h Qd] [5d]
+*** RIVER *** [4c 9h Qd 5d] [8s]
+*** SHOW DOWN ***
+jjulim: shows [Ah Jd] (high card Ace)
+blabart: shows [Td Ad] (high card Ace - lower kicker)
+jjulim collected 2354 from pot
+*** SUMMARY ***
+Total pot 2354 | Rake 0 
+Board [4c 9h Qd 5d 8s]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 3: assad_17 (small blind) folded before Flop
+Seat 4: Carlos ASTA (big blind) folded before Flop
+Seat 5: jjulim showed [Ah Jd] and won (2354) with high card Ace
+Seat 6: blabart showed [Td Ad] and lost with high card Ace
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550004329: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:02:20 CET [2023/06/30 15:02:20 ET]
+Table '3610895633 1' 9-max Seat #3 is the button
+Seat 1: JKPK24 (2238 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (2120 in chips) 
+Seat 5: jjulim (2354 in chips) 
+Seat 6: blabart (1670 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) is sitting out
+Carlos ASTA: posts small blind 100
+jjulim: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [3h 2s]
+blabart: folds 
+DanRussel: raises 1345 to 1545 and is all-in
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+Uncalled bet (1345) returned to DanRussel
+DanRussel collected 500 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 (button) folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (small blind) folded before Flop
+Seat 5: jjulim (big blind) folded before Flop
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel collected (500)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550009469: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:02:36 CET [2023/06/30 15:02:36 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (2238 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (2020 in chips) 
+Seat 5: jjulim (2154 in chips) 
+Seat 6: blabart (1670 in chips) 
+Seat 7: DanRussel (1845 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) is sitting out
+jjulim: posts small blind 100
+blabart: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [5d Qh]
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+Uncalled bet (100) returned to blabart
+blabart collected 200 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded before Flop (didn't bet)
+Seat 5: jjulim (small blind) folded before Flop
+Seat 6: blabart (big blind) collected (200)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550014925: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:02:52 CET [2023/06/30 15:02:52 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (2238 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (2020 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (1770 in chips) 
+Seat 7: DanRussel (1845 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) is sitting out
+blabart: posts small blind 100
+DanRussel: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [Qs Td]
+Albo Aguilar: folds 
+JKPK24: folds 
+Albo Aguilar has returned
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 200
+jjulim: folds 
+blabart: calls 100
+DanRussel: checks 
+*** FLOP *** [7h 4d 8h]
+blabart: bets 200
+DanRussel: folds 
+Carlos ASTA: folds 
+Uncalled bet (200) returned to blabart
+blabart collected 600 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [7h 4d 8h]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded on the Flop
+Seat 5: jjulim (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) collected (600)
+Seat 7: DanRussel (big blind) folded on the Flop
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550030970: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:03:44 CET [2023/06/30 15:03:44 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2238 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (1820 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (2170 in chips) 
+Seat 7: DanRussel (1645 in chips) 
+Seat 9: Albo Aguilar (1190 in chips) 
+DanRussel: posts small blind 100
+Albo Aguilar: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [Qd Ah]
+JKPK24: calls 200
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: raises 200 to 400
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: calls 200
+*** FLOP *** [4c 8h 8s]
+JKPK24: checks 
+blabart: bets 1100
+JKPK24: folds 
+Uncalled bet (1100) returned to blabart
+blabart collected 1100 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [4c 8h 8s]
+Seat 1: JKPK24 folded on the Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) collected (1100)
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) folded before Flop
+
+
+
+PokerStars Hand #244550045873: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:04:30 CET [2023/06/30 15:04:30 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (1838 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (1820 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (2870 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (990 in chips) 
+Albo Aguilar: posts small blind 100
+JKPK24: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [5c 6c]
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: calls 200
+jjulim: folds 
+blabart: calls 200
+DanRussel: folds 
+Albo Aguilar: raises 790 to 990 and is all-in
+JKPK24: folds 
+Carlos ASTA: calls 790
+blabart: folds 
+*** FLOP *** [3s 4c Ah]
+*** TURN *** [3s 4c Ah] [5h]
+*** RIVER *** [3s 4c Ah 5h] [5d]
+*** SHOW DOWN ***
+Albo Aguilar: shows [6d 6h] (two pair, Sixes and Fives)
+Carlos ASTA: shows [Kc Jd] (a pair of Fives)
+Albo Aguilar collected 2380 from pot
+*** SUMMARY ***
+Total pot 2380 | Rake 0 
+Board [3s 4c Ah 5h 5d]
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA showed [Kc Jd] and lost with a pair of Fives
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (small blind) showed [6d 6h] and won (2380) with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #244550061157: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:05:17 CET [2023/06/30 15:05:17 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (1638 in chips) 
+Seat 2: kzl91 (1448 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (830 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (2670 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (2380 in chips) 
+JKPK24: posts small blind 100
+kzl91: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [4s Ad]
+assad_17: folds 
+Carlos ASTA: raises 630 to 830 and is all-in
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (630) returned to Carlos ASTA
+Carlos ASTA collected 500 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded before Flop
+Seat 3: assad_17 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA collected (500)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550071532: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:05:48 CET [2023/06/30 15:05:48 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1538 in chips) 
+Seat 2: kzl91 (1248 in chips) 
+Seat 3: assad_17 (935 in chips) 
+Seat 4: Carlos ASTA (1130 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (2670 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (2380 in chips) 
+kzl91: posts small blind 100
+assad_17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [5c 6s]
+Carlos ASTA: calls 200
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: checks 
+*** FLOP *** [8h Tc 7d]
+assad_17: checks 
+Carlos ASTA: bets 400
+assad_17: folds 
+Uncalled bet (400) returned to Carlos ASTA
+Carlos ASTA collected 500 from pot
+Carlos ASTA: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [8h Tc 7d]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 3: assad_17 (big blind) folded on the Flop
+Seat 4: Carlos ASTA collected (500)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550079385: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2023/06/30 21:06:12 CET [2023/06/30 15:06:12 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1538 in chips) 
+Seat 2: kzl91 (1148 in chips) 
+Seat 3: assad_17 (735 in chips) 
+Seat 4: Carlos ASTA (1430 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (2670 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (2380 in chips) 
+assad_17: posts small blind 100
+Carlos ASTA: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [3h 5h]
+jjulim: folds 
+blabart: calls 200
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: folds 
+Carlos ASTA: checks 
+*** FLOP *** [9d 7s As]
+Carlos ASTA: checks 
+blabart: bets 500
+Carlos ASTA: folds 
+Uncalled bet (500) returned to blabart
+blabart collected 500 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [9d 7s As]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 3: assad_17 (small blind) folded before Flop
+Seat 4: Carlos ASTA (big blind) folded on the Flop
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart collected (500)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550088554: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:06:40 CET [2023/06/30 15:06:40 ET]
+Table '3610895633 1' 9-max Seat #3 is the button
+Seat 1: JKPK24 (1538 in chips) 
+Seat 2: kzl91 (1148 in chips) 
+Seat 3: assad_17 (635 in chips) 
+Seat 4: Carlos ASTA (1230 in chips) 
+Seat 5: jjulim (2054 in chips) 
+Seat 6: blabart (2970 in chips) 
+Seat 7: DanRussel (1545 in chips) 
+Seat 9: Albo Aguilar (2380 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+assad_17: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+Carlos ASTA: posts small blind 100
+jjulim: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [6d Kd]
+blabart: calls 200
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+assad_17: raises 410 to 610 and is all-in
+Carlos ASTA: folds 
+jjulim: calls 410
+blabart: calls 410
+*** FLOP *** [Ts Kc 5d]
+jjulim: checks 
+blabart: checks 
+*** TURN *** [Ts Kc 5d] [7c]
+jjulim: checks 
+blabart: bets 200
+jjulim: folds 
+Uncalled bet (200) returned to blabart
+*** RIVER *** [Ts Kc 5d 7c] [6s]
+*** SHOW DOWN ***
+blabart: shows [6d Kd] (two pair, Kings and Sixes)
+assad_17: shows [5c Ks] (two pair, Kings and Fives)
+blabart collected 2130 from pot
+assad_17 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2130 | Rake 0 
+Board [Ts Kc 5d 7c 6s]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 3: assad_17 (button) showed [5c Ks] and lost with two pair, Kings and Fives
+Seat 4: Carlos ASTA (small blind) folded before Flop
+Seat 5: jjulim (big blind) folded on the Turn
+Seat 6: blabart showed [6d Kd] and won (2130) with two pair, Kings and Sixes
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550103334: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:07:24 CET [2023/06/30 15:07:24 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (1513 in chips) 
+Seat 2: kzl91 (1123 in chips) 
+Seat 4: Carlos ASTA (1105 in chips) 
+Seat 5: jjulim (1419 in chips) 
+Seat 6: blabart (4465 in chips) 
+Seat 7: DanRussel (1520 in chips) 
+Seat 9: Albo Aguilar (2355 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+jjulim: posts small blind 100
+blabart: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [Kd 2h]
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+Uncalled bet (100) returned to blabart
+blabart collected 375 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded before Flop (didn't bet)
+Seat 5: jjulim (small blind) folded before Flop
+Seat 6: blabart (big blind) collected (375)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550111413: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:07:48 CET [2023/06/30 15:07:48 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (1488 in chips) 
+Seat 2: kzl91 (1098 in chips) 
+Seat 4: Carlos ASTA (1080 in chips) 
+Seat 5: jjulim (1294 in chips) 
+Seat 6: blabart (4715 in chips) 
+Seat 7: DanRussel (1495 in chips) 
+Seat 9: Albo Aguilar (2330 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+blabart: posts small blind 100
+DanRussel: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [5s 6c]
+Albo Aguilar: folds 
+JKPK24: calls 200
+kzl91: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: calls 100
+DanRussel: checks 
+*** FLOP *** [Js 8c Qd]
+blabart: checks 
+DanRussel: checks 
+JKPK24: bets 200
+blabart: folds 
+DanRussel: folds 
+Uncalled bet (200) returned to JKPK24
+JKPK24 collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [Js 8c Qd]
+Seat 1: JKPK24 collected (775)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded on the Flop
+Seat 7: DanRussel (big blind) folded on the Flop
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550122328: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:08:21 CET [2023/06/30 15:08:21 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2038 in chips) 
+Seat 2: kzl91 (1073 in chips) 
+Seat 4: Carlos ASTA (1055 in chips) 
+Seat 5: jjulim (1269 in chips) 
+Seat 6: blabart (4490 in chips) 
+Seat 7: DanRussel (1270 in chips) 
+Seat 9: Albo Aguilar (2305 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+DanRussel: posts small blind 100
+Albo Aguilar: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [4s 5s]
+JKPK24: folds 
+kzl91: raises 848 to 1048 and is all-in
+Carlos ASTA: calls 1030 and is all-in
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+Uncalled bet (18) returned to kzl91
+*** FLOP *** [8s 5d 6s]
+*** TURN *** [8s 5d 6s] [6h]
+*** RIVER *** [8s 5d 6s 6h] [4c]
+*** SHOW DOWN ***
+kzl91: shows [Kd Td] (a pair of Sixes)
+Carlos ASTA: shows [Kc Tc] (a pair of Sixes)
+kzl91 collected 1268 from pot
+Carlos ASTA collected 1267 from pot
+*** SUMMARY ***
+Total pot 2535 | Rake 0 
+Board [8s 5d 6s 6h 4c]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 showed [Kd Td] and won (1268) with a pair of Sixes
+Seat 4: Carlos ASTA showed [Kc Tc] and won (1267) with a pair of Sixes
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) folded before Flop
+
+
+
+PokerStars Hand #244550135292: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:08:59 CET [2023/06/30 15:08:59 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2013 in chips) 
+Seat 2: kzl91 (1286 in chips) 
+Seat 4: Carlos ASTA (1267 in chips) 
+Seat 5: jjulim (1244 in chips) 
+Seat 6: blabart (4465 in chips) 
+Seat 7: DanRussel (1145 in chips) 
+Seat 9: Albo Aguilar (2080 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+Albo Aguilar: posts small blind 100
+JKPK24: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [4s 7c]
+kzl91: folds 
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+DanRussel: raises 920 to 1120 and is all-in
+Albo Aguilar: raises 920 to 2040
+JKPK24: folds 
+Uncalled bet (920) returned to Albo Aguilar
+*** FLOP *** [5d Kd 6h]
+*** TURN *** [5d Kd 6h] [5h]
+*** RIVER *** [5d Kd 6h 5h] [2h]
+*** SHOW DOWN ***
+Albo Aguilar: shows [Js Qd] (a pair of Fives)
+DanRussel: shows [Kc Jc] (two pair, Kings and Fives)
+DanRussel collected 2615 from pot
+*** SUMMARY ***
+Total pot 2615 | Rake 0 
+Board [5d Kd 6h 5h 2h]
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) showed [Kc Jc] and won (2615) with two pair, Kings and Fives
+Seat 9: Albo Aguilar (small blind) showed [Js Qd] and lost with a pair of Fives
+
+
+
+PokerStars Hand #244550144705: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:09:27 CET [2023/06/30 15:09:27 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (1788 in chips) 
+Seat 2: kzl91 (1261 in chips) 
+Seat 4: Carlos ASTA (1242 in chips) 
+Seat 5: jjulim (1219 in chips) 
+Seat 6: blabart (4440 in chips) 
+Seat 7: DanRussel (2615 in chips) 
+Seat 9: Albo Aguilar (935 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+JKPK24: posts small blind 100
+kzl91: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [5d 7s]
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: calls 200
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: calls 100
+kzl91: checks 
+*** FLOP *** [7d 5s Tc]
+JKPK24: checks 
+kzl91: checks 
+blabart: bets 775
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (775) returned to blabart
+blabart collected 775 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [7d 5s Tc]
+Seat 1: JKPK24 (small blind) folded on the Flop
+Seat 2: kzl91 (big blind) folded on the Flop
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart collected (775)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550155473: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:09:59 CET [2023/06/30 15:09:59 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1563 in chips) 
+Seat 2: kzl91 (1036 in chips) 
+Seat 4: Carlos ASTA (1217 in chips) 
+Seat 5: jjulim (1194 in chips) 
+Seat 6: blabart (4990 in chips) 
+Seat 7: DanRussel (2590 in chips) 
+Seat 9: Albo Aguilar (910 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+kzl91: posts small blind 100
+Carlos ASTA: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [Qs 7s]
+jjulim: folds 
+blabart: calls 200
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+Carlos ASTA: checks 
+*** FLOP *** [6s 5d 8h]
+Carlos ASTA: checks 
+blabart: bets 675
+Carlos ASTA: folds 
+Uncalled bet (675) returned to blabart
+blabart collected 675 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [6s 5d 8h]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 4: Carlos ASTA (big blind) folded on the Flop
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart collected (675)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550164414: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:10:26 CET [2023/06/30 15:10:26 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1538 in chips) 
+Seat 2: kzl91 (911 in chips) 
+Seat 4: Carlos ASTA (992 in chips) 
+Seat 5: jjulim (1169 in chips) 
+Seat 6: blabart (5440 in chips) 
+Seat 7: DanRussel (2565 in chips) 
+Seat 9: Albo Aguilar (885 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+Carlos ASTA: posts small blind 100
+jjulim: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [6d 9c]
+blabart: calls 200
+DanRussel: folds 
+Albo Aguilar: raises 660 to 860 and is all-in
+JKPK24: folds 
+kzl91: folds 
+Carlos ASTA: calls 760
+jjulim: folds 
+blabart: folds 
+*** FLOP *** [4c 3h 8h]
+*** TURN *** [4c 3h 8h] [5d]
+*** RIVER *** [4c 3h 8h 5d] [Jc]
+*** SHOW DOWN ***
+Carlos ASTA: shows [Ac Jh] (a pair of Jacks)
+Albo Aguilar: shows [4d 4s] (three of a kind, Fours)
+Albo Aguilar collected 2295 from pot
+*** SUMMARY ***
+Total pot 2295 | Rake 0 
+Board [4c 3h 8h 5d Jc]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (small blind) showed [Ac Jh] and lost with a pair of Jacks
+Seat 5: jjulim (big blind) folded before Flop
+Seat 6: blabart folded before Flop
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar showed [4d 4s] and won (2295) with three of a kind, Fours
+
+
+
+PokerStars Hand #244550173652: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2023/06/30 21:10:53 CET [2023/06/30 15:10:53 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (1513 in chips) 
+Seat 2: kzl91 (886 in chips) 
+Seat 4: Carlos ASTA (107 in chips) 
+Seat 5: jjulim (944 in chips) 
+Seat 6: blabart (5215 in chips) 
+Seat 7: DanRussel (2540 in chips) 
+Seat 9: Albo Aguilar (2295 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+jjulim: posts small blind 100
+blabart: posts big blind 200
+*** HOLE CARDS ***
+Dealt to blabart [3h 2d]
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: calls 200
+kzl91: folds 
+Carlos ASTA: calls 82 and is all-in
+jjulim: folds 
+blabart: checks 
+*** FLOP *** [9h 8s 4s]
+blabart: checks 
+JKPK24: checks 
+*** TURN *** [9h 8s 4s] [9s]
+blabart: checks 
+JKPK24: checks 
+*** RIVER *** [9h 8s 4s 9s] [6d]
+blabart: checks 
+JKPK24: checks 
+*** SHOW DOWN ***
+blabart: shows [3h 2d] (a pair of Nines)
+JKPK24: shows [As 6h] (two pair, Nines and Sixes)
+JKPK24 collected 254 from side pot
+Carlos ASTA: shows [8d 4d] (two pair, Nines and Eights)
+Carlos ASTA collected 503 from main pot
+*** SUMMARY ***
+Total pot 757 Main pot 503. Side pot 254. | Rake 0 
+Board [9h 8s 4s 9s 6d]
+Seat 1: JKPK24 showed [As 6h] and won (254) with two pair, Nines and Sixes
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) showed [8d 4d] and won (503) with two pair, Nines and Eights
+Seat 5: jjulim (small blind) folded before Flop
+Seat 6: blabart (big blind) showed [3h 2d] and lost with a pair of Nines
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550186457: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:11:31 CET [2023/06/30 15:11:31 ET]
+Table '3610895633 1' 9-max Seat #5 is the button
+Seat 1: JKPK24 (1542 in chips) 
+Seat 2: kzl91 (861 in chips) 
+Seat 4: Carlos ASTA (503 in chips) 
+Seat 5: jjulim (819 in chips) 
+Seat 6: blabart (4990 in chips) 
+Seat 7: DanRussel (2515 in chips) 
+Seat 9: Albo Aguilar (2270 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+blabart: posts small blind 150
+DanRussel: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [4h 6h]
+Albo Aguilar: calls 300
+JKPK24: folds 
+kzl91: folds 
+Carlos ASTA: folds 
+jjulim: raises 494 to 794 and is all-in
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: calls 494
+*** FLOP *** [Qh 4s 7h]
+*** TURN *** [Qh 4s 7h] [4c]
+*** RIVER *** [Qh 4s 7h 4c] [8c]
+*** SHOW DOWN ***
+Albo Aguilar: shows [3d 3h] (two pair, Fours and Threes)
+jjulim: shows [Ks Kd] (two pair, Kings and Fours)
+jjulim collected 2213 from pot
+*** SUMMARY ***
+Total pot 2213 | Rake 0 
+Board [Qh 4s 7h 4c 8c]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim (button) showed [Ks Kd] and won (2213) with two pair, Kings and Fours
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) folded before Flop
+Seat 9: Albo Aguilar showed [3d 3h] and lost with two pair, Fours and Threes
+
+
+
+PokerStars Hand #244550202291: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:12:18 CET [2023/06/30 15:12:18 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (1517 in chips) 
+Seat 2: kzl91 (836 in chips) 
+Seat 4: Carlos ASTA (478 in chips) 
+Seat 5: jjulim (2213 in chips) 
+Seat 6: blabart (4815 in chips) 
+Seat 7: DanRussel (2190 in chips) 
+Seat 9: Albo Aguilar (1451 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+DanRussel: posts small blind 150
+Albo Aguilar: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [6h Tc]
+JKPK24: folds 
+kzl91: folds 
+Carlos ASTA: raises 153 to 453 and is all-in
+jjulim: folds 
+blabart: calls 453
+DanRussel: raises 1712 to 2165 and is all-in
+Albo Aguilar: folds 
+blabart: folds 
+Uncalled bet (1712) returned to DanRussel
+*** FLOP *** [5d Qs 5c]
+*** TURN *** [5d Qs 5c] [5h]
+*** RIVER *** [5d Qs 5c 5h] [5s]
+*** SHOW DOWN ***
+DanRussel: shows [Ad Kd] (four of a kind, Fives)
+Carlos ASTA: shows [Qh Ah] (four of a kind, Fives)
+DanRussel collected 917 from pot
+Carlos ASTA collected 917 from pot
+*** SUMMARY ***
+Total pot 1834 | Rake 0 
+Board [5d Qs 5c 5h 5s]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA showed [Qh Ah] and won (917) with four of a kind, Fives
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop
+Seat 7: DanRussel (small blind) showed [Ad Kd] and won (917) with four of a kind, Fives
+Seat 9: Albo Aguilar (big blind) folded before Flop
+
+
+
+PokerStars Hand #244550213176: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:12:50 CET [2023/06/30 15:12:50 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (1492 in chips) 
+Seat 2: kzl91 (811 in chips) 
+Seat 4: Carlos ASTA (917 in chips) 
+Seat 5: jjulim (2188 in chips) 
+Seat 6: blabart (4337 in chips) 
+Seat 7: DanRussel (2629 in chips) 
+Seat 9: Albo Aguilar (1126 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+Albo Aguilar: posts small blind 150
+JKPK24: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [Th 7c]
+kzl91: raises 486 to 786 and is all-in
+Carlos ASTA: folds 
+jjulim: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+Uncalled bet (486) returned to kzl91
+kzl91 collected 925 from pot
+kzl91: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 collected (925)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 5: jjulim folded before Flop (didn't bet)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550218989: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:13:08 CET [2023/06/30 15:13:08 ET]
+Table '3610895633 1' 9-max Seat #9 is the button
+Seat 1: JKPK24 (1167 in chips) 
+Seat 2: kzl91 (1411 in chips) 
+Seat 4: Carlos ASTA (892 in chips) 
+Seat 5: jjulim (2163 in chips) 
+Seat 6: blabart (4312 in chips) 
+Seat 7: DanRussel (2604 in chips) 
+Seat 9: Albo Aguilar (951 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+JKPK24: posts small blind 150
+kzl91: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [2h 8c]
+Carlos ASTA: raises 567 to 867 and is all-in
+jjulim: calls 867
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: folds 
+*** FLOP *** [Jh Kh Ad]
+*** TURN *** [Jh Kh Ad] [6c]
+*** RIVER *** [Jh Kh Ad 6c] [9h]
+*** SHOW DOWN ***
+Carlos ASTA: shows [Ks Ac] (two pair, Aces and Kings)
+jjulim: shows [4s 4c] (a pair of Fours)
+Carlos ASTA collected 2359 from pot
+*** SUMMARY ***
+Total pot 2359 | Rake 0 
+Board [Jh Kh Ad 6c 9h]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded before Flop
+Seat 4: Carlos ASTA showed [Ks Ac] and won (2359) with two pair, Aces and Kings
+Seat 5: jjulim showed [4s 4c] and lost with a pair of Fours
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550229442: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:13:38 CET [2023/06/30 15:13:38 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (992 in chips) 
+Seat 2: kzl91 (1086 in chips) 
+Seat 4: Carlos ASTA (2359 in chips) 
+Seat 5: jjulim (1271 in chips) 
+Seat 6: blabart (4287 in chips) 
+Seat 7: DanRussel (2579 in chips) 
+Seat 9: Albo Aguilar (926 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+kzl91: posts small blind 150
+Carlos ASTA: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [Kd Qh]
+jjulim: raises 946 to 1246 and is all-in
+blabart: calls 1246
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: folds 
+kzl91: calls 911 and is all-in
+Carlos ASTA: calls 946
+*** FLOP *** [4c 3h 8h]
+Carlos ASTA: checks 
+blabart: checks 
+*** TURN *** [4c 3h 8h] [7s]
+Carlos ASTA: checks 
+blabart: checks 
+*** RIVER *** [4c 3h 8h 7s] [8s]
+Carlos ASTA: checks 
+blabart: checks 
+*** SHOW DOWN ***
+Carlos ASTA: shows [Kc 9c] (a pair of Eights)
+jjulim: shows [Ks Kh] (two pair, Kings and Eights)
+blabart: mucks hand 
+jjulim collected 555 from side pot
+kzl91: shows [Ac 8c] (three of a kind, Eights)
+kzl91 collected 4419 from main pot
+*** SUMMARY ***
+Total pot 4974 Main pot 4419. Side pot 555. | Rake 0 
+Board [4c 3h 8h 7s 8s]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) showed [Ac 8c] and won (4419) with three of a kind, Eights
+Seat 4: Carlos ASTA (big blind) showed [Kc 9c] and lost with a pair of Eights
+Seat 5: jjulim showed [Ks Kh] and won (555) with two pair, Kings and Eights
+Seat 6: blabart mucked [Kd Qh]
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550250453: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:14:40 CET [2023/06/30 15:14:40 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (967 in chips) 
+Seat 2: kzl91 (4419 in chips) 
+Seat 4: Carlos ASTA (1088 in chips) 
+Seat 5: jjulim (555 in chips) 
+Seat 6: blabart (3016 in chips) 
+Seat 7: DanRussel (2554 in chips) 
+Seat 9: Albo Aguilar (901 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+jjulim: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+Carlos ASTA: posts small blind 150
+jjulim: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [9c Tc]
+blabart: calls 300
+DanRussel: folds 
+Albo Aguilar: folds 
+JKPK24: raises 642 to 942 and is all-in
+kzl91: folds 
+Carlos ASTA: folds 
+jjulim: calls 230 and is all-in
+blabart: folds 
+Uncalled bet (412) returned to JKPK24
+*** FLOP *** [4h 5d 8s]
+*** TURN *** [4h 5d 8s] [Kc]
+*** RIVER *** [4h 5d 8s Kc] [9s]
+*** SHOW DOWN ***
+jjulim: shows [8d 7h] (a pair of Eights)
+JKPK24: shows [Ks Ad] (a pair of Kings)
+JKPK24 collected 1685 from pot
+jjulim finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1685 | Rake 0 
+Board [4h 5d 8s Kc 9s]
+Seat 1: JKPK24 showed [Ks Ad] and won (1685) with a pair of Kings
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (small blind) folded before Flop
+Seat 5: jjulim (big blind) showed [8d 7h] and lost with a pair of Eights
+Seat 6: blabart folded before Flop
+Seat 7: DanRussel folded before Flop (didn't bet)
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550260669: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:15:09 CET [2023/06/30 15:15:09 ET]
+Table '3610895633 1' 9-max Seat #4 is the button
+Seat 1: JKPK24 (2097 in chips) 
+Seat 2: kzl91 (4394 in chips) 
+Seat 4: Carlos ASTA (913 in chips) 
+Seat 6: blabart (2691 in chips) 
+Seat 7: DanRussel (2529 in chips) 
+Seat 9: Albo Aguilar (876 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+blabart: posts small blind 150
+DanRussel: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [9d 3h]
+Albo Aguilar: folds 
+JKPK24: raises 300 to 600
+kzl91: folds 
+Carlos ASTA: folds 
+blabart: folds 
+DanRussel: folds 
+Uncalled bet (300) returned to JKPK24
+JKPK24 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: JKPK24 collected (900)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) folded before Flop
+Seat 9: Albo Aguilar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550265723: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:15:24 CET [2023/06/30 15:15:24 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2672 in chips) 
+Seat 2: kzl91 (4369 in chips) 
+Seat 4: Carlos ASTA (888 in chips) 
+Seat 6: blabart (2516 in chips) 
+Seat 7: DanRussel (2204 in chips) 
+Seat 9: Albo Aguilar (851 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+Albo Aguilar: posts the ante 25
+DanRussel: posts small blind 150
+Albo Aguilar: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [6c 5c]
+JKPK24: calls 300
+kzl91: folds 
+Carlos ASTA: folds 
+blabart: folds 
+DanRussel: folds 
+Albo Aguilar: checks 
+*** FLOP *** [3s 5s 5h]
+Albo Aguilar: bets 526 and is all-in
+JKPK24: calls 526
+*** TURN *** [3s 5s 5h] [7s]
+*** RIVER *** [3s 5s 5h 7s] [9c]
+*** SHOW DOWN ***
+Albo Aguilar: shows [8h 4c] (a pair of Fives)
+JKPK24: shows [Ah Jc] (a pair of Fives - Ace kicker)
+JKPK24 collected 1952 from pot
+Albo Aguilar finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1952 | Rake 0 
+Board [3s 5s 5h 7s 9c]
+Seat 1: JKPK24 showed [Ah Jc] and won (1952) with a pair of Fives
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 4: Carlos ASTA folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) folded before Flop
+Seat 9: Albo Aguilar (big blind) showed [8h 4c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #244550281688: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2023/06/30 21:16:11 CET [2023/06/30 15:16:11 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (3773 in chips) 
+Seat 2: kzl91 (4344 in chips) 
+Seat 4: Carlos ASTA (863 in chips) 
+Seat 6: blabart (2491 in chips) 
+Seat 7: DanRussel (2029 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+Carlos ASTA: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+JKPK24: posts small blind 150
+kzl91: posts big blind 300
+*** HOLE CARDS ***
+Dealt to blabart [6h 6s]
+Carlos ASTA: calls 300
+blabart: calls 300
+DanRussel: folds 
+JKPK24: folds 
+kzl91: checks 
+*** FLOP *** [9c Js 8c]
+kzl91: bets 599
+Carlos ASTA: calls 538 and is all-in
+blabart: folds 
+Uncalled bet (61) returned to kzl91
+*** TURN *** [9c Js 8c] [8s]
+*** RIVER *** [9c Js 8c 8s] [2d]
+*** SHOW DOWN ***
+kzl91: shows [7c Tc] (a straight, Seven to Jack)
+Carlos ASTA: shows [Qc 9s] (two pair, Nines and Eights)
+kzl91 collected 2251 from pot
+Carlos ASTA finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 2251 | Rake 0 
+Board [9c Js 8c 8s 2d]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) showed [7c Tc] and won (2251) with a straight, Seven to Jack
+Seat 4: Carlos ASTA showed [Qc 9s] and lost with two pair, Nines and Eights
+Seat 6: blabart folded on the Flop
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550295198: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:16:50 CET [2023/06/30 15:16:50 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (3598 in chips) 
+Seat 2: kzl91 (5732 in chips) 
+Seat 6: blabart (2166 in chips) 
+Seat 7: DanRussel (2004 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+kzl91: posts small blind 200
+blabart: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [9c 9d]
+DanRussel: folds 
+JKPK24: folds 
+kzl91: raises 5307 to 5707 and is all-in
+blabart: calls 1741 and is all-in
+Uncalled bet (3566) returned to kzl91
+*** FLOP *** [5c Ad Ts]
+*** TURN *** [5c Ad Ts] [3h]
+*** RIVER *** [5c Ad Ts 3h] [9s]
+*** SHOW DOWN ***
+kzl91: shows [3s Kh] (a pair of Threes)
+blabart: shows [9c 9d] (three of a kind, Nines)
+blabart collected 4382 from pot
+*** SUMMARY ***
+Total pot 4382 | Rake 0 
+Board [5c Ad Ts 3h 9s]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) showed [3s Kh] and lost with a pair of Threes
+Seat 6: blabart (big blind) showed [9c 9d] and won (4382) with three of a kind, Nines
+Seat 7: DanRussel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550301430: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:17:08 CET [2023/06/30 15:17:08 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (3573 in chips) 
+Seat 2: kzl91 (3566 in chips) 
+Seat 6: blabart (4382 in chips) 
+Seat 7: DanRussel (1979 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+blabart: posts small blind 200
+DanRussel: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [3s Qh]
+JKPK24: folds 
+kzl91: folds 
+blabart: calls 200
+DanRussel: checks 
+*** FLOP *** [9c 3c Th]
+blabart: checks 
+DanRussel: checks 
+*** TURN *** [9c 3c Th] [Jd]
+blabart: checks 
+DanRussel: checks 
+*** RIVER *** [9c 3c Th Jd] [Ks]
+blabart: checks 
+DanRussel: checks 
+*** SHOW DOWN ***
+blabart: shows [3s Qh] (a straight, Nine to King)
+DanRussel: mucks hand 
+blabart collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [9c 3c Th Jd Ks]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) showed [3s Qh] and won (900) with a straight, Nine to King
+Seat 7: DanRussel (big blind) mucked [6c 5c]
+
+
+
+PokerStars Hand #244550312035: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:17:39 CET [2023/06/30 15:17:39 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (3548 in chips) 
+Seat 2: kzl91 (3541 in chips) 
+Seat 6: blabart (4857 in chips) 
+Seat 7: DanRussel (1554 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+DanRussel: posts small blind 200
+JKPK24: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [2c 4h]
+kzl91: raises 3116 to 3516 and is all-in
+blabart: folds 
+DanRussel: folds 
+JKPK24: folds 
+Uncalled bet (3116) returned to kzl91
+kzl91 collected 1100 from pot
+kzl91: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 collected (1100)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550318219: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:17:57 CET [2023/06/30 15:17:57 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (3123 in chips) 
+Seat 2: kzl91 (4216 in chips) 
+Seat 6: blabart (4832 in chips) 
+Seat 7: DanRussel (1329 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+JKPK24: posts small blind 200
+kzl91: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [Ks Qc]
+blabart: calls 400
+DanRussel: folds 
+JKPK24: calls 200
+kzl91: checks 
+*** FLOP *** [6c 7c Qs]
+JKPK24: checks 
+kzl91: checks 
+blabart: bets 400
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (400) returned to blabart
+blabart collected 1300 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [6c 7c Qs]
+Seat 1: JKPK24 (small blind) folded on the Flop
+Seat 2: kzl91 (big blind) folded on the Flop
+Seat 6: blabart collected (1300)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550326914: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:18:22 CET [2023/06/30 15:18:22 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (2698 in chips) 
+Seat 2: kzl91 (3791 in chips) 
+Seat 6: blabart (5707 in chips) 
+Seat 7: DanRussel (1304 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+kzl91: posts small blind 200
+blabart: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [7c 8h]
+DanRussel: raises 879 to 1279 and is all-in
+JKPK24: folds 
+kzl91: folds 
+blabart: folds 
+Uncalled bet (879) returned to DanRussel
+DanRussel collected 1100 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 6: blabart (big blind) folded before Flop
+Seat 7: DanRussel collected (1100)
+
+
+
+PokerStars Hand #244550336160: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:18:50 CET [2023/06/30 15:18:50 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (2673 in chips) 
+Seat 2: kzl91 (3566 in chips) 
+Seat 6: blabart (5282 in chips) 
+Seat 7: DanRussel (1979 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+blabart: posts small blind 200
+DanRussel: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [Jh 5d]
+JKPK24: folds 
+kzl91: folds 
+blabart: calls 200
+DanRussel: raises 1554 to 1954 and is all-in
+blabart: folds 
+Uncalled bet (1554) returned to DanRussel
+DanRussel collected 900 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) collected (900)
+
+
+
+PokerStars Hand #244550340416: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:19:02 CET [2023/06/30 15:19:02 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2648 in chips) 
+Seat 2: kzl91 (3541 in chips) 
+Seat 6: blabart (4857 in chips) 
+Seat 7: DanRussel (2454 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+DanRussel: posts small blind 200
+JKPK24: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [6c 5d]
+kzl91: folds 
+blabart: folds 
+DanRussel: raises 2029 to 2429 and is all-in
+JKPK24: folds 
+Uncalled bet (2029) returned to DanRussel
+DanRussel collected 900 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) collected (900)
+
+
+
+PokerStars Hand #244550343795: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:19:12 CET [2023/06/30 15:19:12 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2223 in chips) 
+Seat 2: kzl91 (3516 in chips) 
+Seat 6: blabart (4832 in chips) 
+Seat 7: DanRussel (2929 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+JKPK24: posts small blind 200
+kzl91: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [Kh 7h]
+blabart: calls 400
+DanRussel: raises 2504 to 2904 and is all-in
+JKPK24: folds 
+kzl91: folds 
+blabart: folds 
+Uncalled bet (2504) returned to DanRussel
+DanRussel collected 1500 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded before Flop
+Seat 6: blabart folded before Flop
+Seat 7: DanRussel (button) collected (1500)
+
+
+
+PokerStars Hand #244550347357: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:19:23 CET [2023/06/30 15:19:23 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1998 in chips) 
+Seat 2: kzl91 (3091 in chips) 
+Seat 6: blabart (4407 in chips) 
+Seat 7: DanRussel (4004 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+kzl91: posts small blind 200
+blabart: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [9c 6c]
+DanRussel: folds 
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (200) returned to blabart
+blabart collected 500 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 6: blabart (big blind) collected (500)
+Seat 7: DanRussel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550350361: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:19:31 CET [2023/06/30 15:19:31 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1973 in chips) 
+Seat 2: kzl91 (2866 in chips) 
+Seat 6: blabart (4682 in chips) 
+Seat 7: DanRussel (3979 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+blabart: posts small blind 200
+DanRussel: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [3s Th]
+JKPK24: raises 1548 to 1948 and is all-in
+kzl91: folds 
+blabart: folds 
+DanRussel: folds 
+Uncalled bet (1548) returned to JKPK24
+JKPK24 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: JKPK24 collected (1100)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) folded before Flop
+
+
+
+PokerStars Hand #244550362532: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:20:07 CET [2023/06/30 15:20:07 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2648 in chips) 
+Seat 2: kzl91 (2841 in chips) 
+Seat 6: blabart (4457 in chips) 
+Seat 7: DanRussel (3554 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+DanRussel: posts small blind 200
+JKPK24: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [Jd 6h]
+kzl91: folds 
+blabart: folds 
+DanRussel: raises 3129 to 3529 and is all-in
+JKPK24: folds 
+Uncalled bet (3129) returned to DanRussel
+DanRussel collected 900 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) collected (900)
+
+
+
+PokerStars Hand #244550365604: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:20:16 CET [2023/06/30 15:20:16 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2223 in chips) 
+Seat 2: kzl91 (2816 in chips) 
+Seat 6: blabart (4432 in chips) 
+Seat 7: DanRussel (4029 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+JKPK24: posts small blind 200
+kzl91: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [5d 5c]
+blabart: calls 400
+DanRussel: folds 
+JKPK24: folds 
+kzl91: checks 
+*** FLOP *** [7c Tc 6c]
+kzl91: checks 
+blabart: bets 1100
+kzl91: folds 
+Uncalled bet (1100) returned to blabart
+blabart collected 1100 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [7c Tc 6c]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) folded on the Flop
+Seat 6: blabart collected (1100)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550374466: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:20:42 CET [2023/06/30 15:20:42 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1998 in chips) 
+Seat 2: kzl91 (2391 in chips) 
+Seat 6: blabart (5107 in chips) 
+Seat 7: DanRussel (4004 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+kzl91: posts small blind 200
+blabart: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [Ad 8h]
+DanRussel: folds 
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (200) returned to blabart
+blabart collected 500 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 6: blabart (big blind) collected (500)
+Seat 7: DanRussel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550377869: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:20:52 CET [2023/06/30 15:20:52 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (1973 in chips) 
+Seat 2: kzl91 (2166 in chips) 
+Seat 6: blabart (5382 in chips) 
+Seat 7: DanRussel (3979 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+blabart: posts small blind 200
+DanRussel: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [2c 6h]
+JKPK24: folds 
+kzl91: folds 
+blabart: folds 
+Uncalled bet (200) returned to DanRussel
+DanRussel collected 500 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) collected (500)
+
+
+
+PokerStars Hand #244550381006: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:21:01 CET [2023/06/30 15:21:01 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (1948 in chips) 
+Seat 2: kzl91 (2141 in chips) 
+Seat 6: blabart (5157 in chips) 
+Seat 7: DanRussel (4254 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+DanRussel: posts small blind 200
+JKPK24: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [Jc Qc]
+kzl91: folds 
+blabart: calls 400
+DanRussel: folds 
+JKPK24: raises 1523 to 1923 and is all-in
+blabart: folds 
+Uncalled bet (1523) returned to JKPK24
+JKPK24 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: JKPK24 (big blind) collected (1100)
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 6: blabart (button) folded before Flop
+Seat 7: DanRussel (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550385329: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:21:13 CET [2023/06/30 15:21:13 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2623 in chips) 
+Seat 2: kzl91 (2116 in chips) 
+Seat 6: blabart (4732 in chips) 
+Seat 7: DanRussel (4029 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+JKPK24: posts small blind 200
+kzl91: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [9h Jc]
+blabart: folds 
+DanRussel: folds 
+JKPK24: folds 
+Uncalled bet (200) returned to kzl91
+kzl91 collected 500 from pot
+kzl91: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) collected (500)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550388935: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level IX (200/400) - 2023/06/30 21:21:24 CET [2023/06/30 15:21:24 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (2398 in chips) 
+Seat 2: kzl91 (2391 in chips) 
+Seat 6: blabart (4707 in chips) 
+Seat 7: DanRussel (4004 in chips) 
+JKPK24: posts the ante 25
+kzl91: posts the ante 25
+blabart: posts the ante 25
+DanRussel: posts the ante 25
+kzl91: posts small blind 200
+blabart: posts big blind 400
+*** HOLE CARDS ***
+Dealt to blabart [2h 4c]
+DanRussel: raises 3579 to 3979 and is all-in
+JKPK24: folds 
+kzl91: folds 
+blabart: folds 
+Uncalled bet (3579) returned to DanRussel
+DanRussel collected 1100 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 6: blabart (big blind) folded before Flop
+Seat 7: DanRussel collected (1100)
+
+
+
+PokerStars Hand #244550395538: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:21:43 CET [2023/06/30 15:21:43 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (2373 in chips) 
+Seat 2: kzl91 (2166 in chips) 
+Seat 6: blabart (4282 in chips) 
+Seat 7: DanRussel (4679 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 300
+DanRussel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [3c 7h]
+JKPK24: raises 600 to 1200
+kzl91: folds 
+blabart: folds 
+DanRussel: folds 
+Uncalled bet (600) returned to JKPK24
+JKPK24 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 1: JKPK24 collected (1700)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) folded before Flop
+Seat 7: DanRussel (big blind) folded before Flop
+
+
+
+PokerStars Hand #244550399050: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:21:53 CET [2023/06/30 15:21:53 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (3423 in chips) 
+Seat 2: kzl91 (2116 in chips) 
+Seat 6: blabart (3932 in chips) 
+Seat 7: DanRussel (4029 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 300
+JKPK24: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [7s 8c]
+kzl91: folds 
+blabart: calls 600
+DanRussel: folds 
+JKPK24: checks 
+*** FLOP *** [3c 6h 4d]
+JKPK24: checks 
+blabart: bets 1700
+JKPK24: folds 
+Uncalled bet (1700) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [3c 6h 4d]
+Seat 1: JKPK24 (big blind) folded on the Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 6: blabart (button) collected (1700)
+Seat 7: DanRussel (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550404147: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:22:08 CET [2023/06/30 15:22:08 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (2773 in chips) 
+Seat 2: kzl91 (2066 in chips) 
+Seat 6: blabart (4982 in chips) 
+Seat 7: DanRussel (3679 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+JKPK24: posts small blind 300
+kzl91: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [2d 5d]
+blabart: folds 
+DanRussel: folds 
+JKPK24: folds 
+Uncalled bet (300) returned to kzl91
+kzl91 collected 800 from pot
+kzl91: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) collected (800)
+Seat 6: blabart folded before Flop (didn't bet)
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550406499: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:22:15 CET [2023/06/30 15:22:15 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (2423 in chips) 
+Seat 2: kzl91 (2516 in chips) 
+Seat 6: blabart (4932 in chips) 
+Seat 7: DanRussel (3629 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+kzl91: posts small blind 300
+blabart: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [2d 6s]
+DanRussel: folds 
+JKPK24: folds 
+kzl91: folds 
+Uncalled bet (300) returned to blabart
+blabart collected 800 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 2: kzl91 (small blind) folded before Flop
+Seat 6: blabart (big blind) collected (800)
+Seat 7: DanRussel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550410001: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:22:25 CET [2023/06/30 15:22:25 ET]
+Table '3610895633 1' 9-max Seat #2 is the button
+Seat 1: JKPK24 (2373 in chips) 
+Seat 2: kzl91 (2166 in chips) 
+Seat 6: blabart (5382 in chips) 
+Seat 7: DanRussel (3579 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 300
+DanRussel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [Jd 7c]
+JKPK24: folds 
+kzl91: folds 
+blabart: calls 300
+DanRussel: checks 
+*** FLOP *** [Kd 5d 2s]
+blabart: checks 
+DanRussel: checks 
+*** TURN *** [Kd 5d 2s] [2h]
+blabart: checks 
+DanRussel: checks 
+*** RIVER *** [Kd 5d 2s 2h] [Tc]
+blabart: bets 600
+DanRussel: folds 
+Uncalled bet (600) returned to blabart
+blabart collected 1400 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [Kd 5d 2s 2h Tc]
+Seat 1: JKPK24 folded before Flop (didn't bet)
+Seat 2: kzl91 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) collected (1400)
+Seat 7: DanRussel (big blind) folded on the River
+
+
+
+PokerStars Hand #244550417574: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:22:47 CET [2023/06/30 15:22:47 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (2323 in chips) 
+Seat 2: kzl91 (2116 in chips) 
+Seat 6: blabart (6132 in chips) 
+Seat 7: DanRussel (2929 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 300
+JKPK24: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [Th 6d]
+kzl91: folds 
+blabart: calls 600
+DanRussel: folds 
+JKPK24: checks 
+*** FLOP *** [6h 7s 9d]
+JKPK24: checks 
+blabart: bets 600
+JKPK24: folds 
+Uncalled bet (600) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [6h 7s 9d]
+Seat 1: JKPK24 (big blind) folded on the Flop
+Seat 2: kzl91 folded before Flop (didn't bet)
+Seat 6: blabart (button) collected (1700)
+Seat 7: DanRussel (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550424134: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:23:06 CET [2023/06/30 15:23:06 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (1673 in chips) 
+Seat 2: kzl91 (2066 in chips) 
+Seat 6: blabart (7182 in chips) 
+Seat 7: DanRussel (2579 in chips) 
+JKPK24: posts the ante 50
+kzl91: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+JKPK24: posts small blind 300
+kzl91: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [Jh As]
+blabart: calls 600
+DanRussel: folds 
+JKPK24: folds 
+kzl91: checks 
+*** FLOP *** [Jd Ts 6d]
+kzl91: bets 1416 and is all-in
+blabart: calls 1416
+*** TURN *** [Jd Ts 6d] [4s]
+*** RIVER *** [Jd Ts 6d 4s] [2s]
+*** SHOW DOWN ***
+kzl91: shows [5s Qc] (high card Queen)
+blabart: shows [Jh As] (a pair of Jacks)
+blabart collected 4532 from pot
+kzl91 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 4532 | Rake 0 
+Board [Jd Ts 6d 4s 2s]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 2: kzl91 (big blind) showed [5s Qc] and lost with high card Queen
+Seat 6: blabart showed [Jh As] and won (4532) with a pair of Jacks
+Seat 7: DanRussel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550433185: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:23:33 CET [2023/06/30 15:23:33 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (1323 in chips) 
+Seat 6: blabart (9648 in chips) 
+Seat 7: DanRussel (2529 in chips) 
+JKPK24: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 300
+DanRussel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [2c 4c]
+JKPK24: folds 
+blabart: calls 300
+DanRussel: checks 
+*** FLOP *** [Ac Kh 2d]
+blabart: checks 
+DanRussel: checks 
+*** TURN *** [Ac Kh 2d] [Qc]
+blabart: checks 
+DanRussel: checks 
+*** RIVER *** [Ac Kh 2d Qc] [Tc]
+blabart: bets 600
+DanRussel: calls 600
+*** SHOW DOWN ***
+blabart: shows [2c 4c] (a flush, Ace high)
+DanRussel: mucks hand 
+blabart collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [Ac Kh 2d Qc Tc]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) showed [2c 4c] and won (2550) with a flush, Ace high
+Seat 7: DanRussel (big blind) mucked [Js 5s]
+
+
+
+PokerStars Hand #244550446126: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:24:10 CET [2023/06/30 15:24:10 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (1273 in chips) 
+Seat 6: blabart (10948 in chips) 
+Seat 7: DanRussel (1279 in chips) 
+JKPK24: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 300
+JKPK24: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [7h Tc]
+blabart: folds 
+DanRussel: raises 629 to 1229 and is all-in
+JKPK24: folds 
+Uncalled bet (629) returned to DanRussel
+DanRussel collected 1350 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: JKPK24 (big blind) folded before Flop
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) collected (1350)
+
+
+
+PokerStars Hand #244550451883: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:24:27 CET [2023/06/30 15:24:27 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 1: JKPK24 (623 in chips) 
+Seat 6: blabart (10898 in chips) 
+Seat 7: DanRussel (1979 in chips) 
+JKPK24: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+JKPK24: posts small blind 300
+blabart: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [4s 4h]
+DanRussel: calls 600
+JKPK24: folds 
+blabart: checks 
+*** FLOP *** [9c Kc 6h]
+blabart: bets 600
+DanRussel: raises 729 to 1329 and is all-in
+blabart: calls 729
+*** TURN *** [9c Kc 6h] [6d]
+*** RIVER *** [9c Kc 6h 6d] [9s]
+*** SHOW DOWN ***
+blabart: shows [4s 4h] (two pair, Nines and Sixes)
+DanRussel: shows [8h Kd] (two pair, Kings and Nines)
+DanRussel collected 4308 from pot
+*** SUMMARY ***
+Total pot 4308 | Rake 0 
+Board [9c Kc 6h 6d 9s]
+Seat 1: JKPK24 (small blind) folded before Flop
+Seat 6: blabart (big blind) showed [4s 4h] and lost with two pair, Nines and Sixes
+Seat 7: DanRussel (button) showed [8h Kd] and won (4308) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #244550461845: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:24:57 CET [2023/06/30 15:24:57 ET]
+Table '3610895633 1' 9-max Seat #1 is the button
+Seat 1: JKPK24 (273 in chips) 
+Seat 6: blabart (8919 in chips) 
+Seat 7: DanRussel (4308 in chips) 
+JKPK24: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 300
+DanRussel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [2h 9c]
+JKPK24: folds 
+blabart: calls 300
+DanRussel: checks 
+*** FLOP *** [4s Kh Kc]
+blabart: checks 
+DanRussel: checks 
+*** TURN *** [4s Kh Kc] [7d]
+blabart: checks 
+DanRussel: checks 
+*** RIVER *** [4s Kh Kc 7d] [5s]
+blabart: checks 
+DanRussel: checks 
+*** SHOW DOWN ***
+blabart: shows [2h 9c] (a pair of Kings)
+DanRussel: shows [Js Qd] (a pair of Kings - Queen kicker)
+DanRussel collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [4s Kh Kc 7d 5s]
+Seat 1: JKPK24 (button) folded before Flop (didn't bet)
+Seat 6: blabart (small blind) showed [2h 9c] and lost with a pair of Kings
+Seat 7: DanRussel (big blind) showed [Js Qd] and won (1350) with a pair of Kings
+
+
+
+PokerStars Hand #244550468598: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:25:17 CET [2023/06/30 15:25:17 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 1: JKPK24 (223 in chips) 
+Seat 6: blabart (8269 in chips) 
+Seat 7: DanRussel (5008 in chips) 
+JKPK24: posts the ante 50
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 300
+JKPK24: posts big blind 173 and is all-in
+*** HOLE CARDS ***
+Dealt to blabart [5c 9h]
+blabart: folds 
+Uncalled bet (127) returned to DanRussel
+*** FLOP *** [4h 4d Th]
+*** TURN *** [4h 4d Th] [8c]
+*** RIVER *** [4h 4d Th 8c] [6s]
+*** SHOW DOWN ***
+DanRussel: shows [4s 4c] (four of a kind, Fours)
+JKPK24: shows [5d Qh] (a pair of Fours)
+DanRussel collected 496 from pot
+JKPK24 finished the tournament in 3rd place and received $0.79.
+*** SUMMARY ***
+Total pot 496 | Rake 0 
+Board [4h 4d Th 8c 6s]
+Seat 1: JKPK24 (big blind) showed [5d Qh] and lost with a pair of Fours
+Seat 6: blabart (button) folded before Flop (didn't bet)
+Seat 7: DanRussel (small blind) showed [4s 4c] and won (496) with four of a kind, Fours
+
+
+
+PokerStars Hand #244550473504: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:25:31 CET [2023/06/30 15:25:31 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (8219 in chips) 
+Seat 7: DanRussel (5281 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 300
+blabart: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [Jc 7d]
+DanRussel: calls 300
+blabart: checks 
+*** FLOP *** [3d 4c Tc]
+blabart: checks 
+DanRussel: checks 
+*** TURN *** [3d 4c Tc] [Ah]
+blabart: checks 
+DanRussel: checks 
+*** RIVER *** [3d 4c Tc Ah] [3h]
+blabart: checks 
+DanRussel: checks 
+*** SHOW DOWN ***
+blabart: shows [Jc 7d] (a pair of Threes)
+DanRussel: mucks hand 
+blabart collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [3d 4c Tc Ah 3h]
+Seat 6: blabart (big blind) showed [Jc 7d] and won (1300) with a pair of Threes
+Seat 7: DanRussel (button) (small blind) mucked [5c 9c]
+
+
+
+PokerStars Hand #244550485048: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:26:05 CET [2023/06/30 15:26:05 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (8869 in chips) 
+Seat 7: DanRussel (4631 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 300
+DanRussel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [Qc Tc]
+blabart: calls 300
+DanRussel: checks 
+*** FLOP *** [4d 9h 4h]
+DanRussel: checks 
+blabart: bets 600
+DanRussel: folds 
+Uncalled bet (600) returned to blabart
+blabart collected 1300 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [4d 9h 4h]
+Seat 6: blabart (button) (small blind) collected (1300)
+Seat 7: DanRussel (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550489640: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level X (300/600) - 2023/06/30 21:26:18 CET [2023/06/30 15:26:18 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (9519 in chips) 
+Seat 7: DanRussel (3981 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 300
+blabart: posts big blind 600
+*** HOLE CARDS ***
+Dealt to blabart [Js Ah]
+DanRussel: calls 300
+blabart: checks 
+*** FLOP *** [6c Qc Jh]
+blabart: bets 600
+DanRussel: folds 
+Uncalled bet (600) returned to blabart
+blabart collected 1300 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [6c Qc Jh]
+Seat 6: blabart (big blind) collected (1300)
+Seat 7: DanRussel (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550498532: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:26:45 CET [2023/06/30 15:26:45 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (10169 in chips) 
+Seat 7: DanRussel (3331 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [4h 3s]
+blabart: calls 400
+DanRussel: raises 2481 to 3281 and is all-in
+blabart: folds 
+Uncalled bet (2481) returned to DanRussel
+DanRussel collected 1700 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 6: blabart (button) (small blind) folded before Flop
+Seat 7: DanRussel (big blind) collected (1700)
+
+
+
+PokerStars Hand #244550501542: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:26:53 CET [2023/06/30 15:26:53 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (9319 in chips) 
+Seat 7: DanRussel (4181 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Jd 5s]
+DanRussel: folds 
+Uncalled bet (400) returned to blabart
+blabart collected 900 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 6: blabart (big blind) collected (900)
+Seat 7: DanRussel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550504684: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:27:02 CET [2023/06/30 15:27:02 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (9769 in chips) 
+Seat 7: DanRussel (3731 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Qd 5h]
+blabart: calls 400
+DanRussel: checks 
+*** FLOP *** [Jh 8d Jc]
+DanRussel: checks 
+blabart: checks 
+*** TURN *** [Jh 8d Jc] [3s]
+DanRussel: bets 2881 and is all-in
+blabart: folds 
+Uncalled bet (2881) returned to DanRussel
+DanRussel collected 1700 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Jh 8d Jc 3s]
+Seat 6: blabart (button) (small blind) folded on the Turn
+Seat 7: DanRussel (big blind) collected (1700)
+
+
+
+PokerStars Hand #244550509528: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:27:16 CET [2023/06/30 15:27:16 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (8919 in chips) 
+Seat 7: DanRussel (4581 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [7h 7d]
+DanRussel: raises 3731 to 4531 and is all-in
+blabart: calls 3731
+*** FLOP *** [2d Kd Kh]
+*** TURN *** [2d Kd Kh] [8s]
+*** RIVER *** [2d Kd Kh 8s] [Js]
+*** SHOW DOWN ***
+blabart: shows [7h 7d] (two pair, Kings and Sevens)
+DanRussel: shows [Jc 2c] (two pair, Kings and Jacks)
+DanRussel collected 9162 from pot
+*** SUMMARY ***
+Total pot 9162 | Rake 0 
+Board [2d Kd Kh 8s Js]
+Seat 6: blabart (big blind) showed [7h 7d] and lost with two pair, Kings and Sevens
+Seat 7: DanRussel (button) (small blind) showed [Jc 2c] and won (9162) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #244550514827: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:27:32 CET [2023/06/30 15:27:32 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (4338 in chips) 
+Seat 7: DanRussel (9162 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [2c 3s]
+blabart: folds 
+Uncalled bet (400) returned to DanRussel
+DanRussel collected 900 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 6: blabart (button) (small blind) folded before Flop
+Seat 7: DanRussel (big blind) collected (900)
+
+
+
+PokerStars Hand #244550516911: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:27:38 CET [2023/06/30 15:27:38 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (3888 in chips) 
+Seat 7: DanRussel (9612 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Ts Qd]
+DanRussel: calls 400
+blabart: checks 
+*** FLOP *** [6c 9d 8h]
+blabart: bets 800
+DanRussel: raises 7962 to 8762 and is all-in
+blabart: calls 2238 and is all-in
+Uncalled bet (5724) returned to DanRussel
+*** TURN *** [6c 9d 8h] [7d]
+*** RIVER *** [6c 9d 8h 7d] [6s]
+*** SHOW DOWN ***
+blabart: shows [Ts Qd] (a straight, Six to Ten)
+DanRussel: shows [6h Ks] (three of a kind, Sixes)
+blabart collected 7776 from pot
+*** SUMMARY ***
+Total pot 7776 | Rake 0 
+Board [6c 9d 8h 7d 6s]
+Seat 6: blabart (big blind) showed [Ts Qd] and won (7776) with a straight, Six to Ten
+Seat 7: DanRussel (button) (small blind) showed [6h Ks] and lost with three of a kind, Sixes
+
+
+
+PokerStars Hand #244550523852: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:27:59 CET [2023/06/30 15:27:59 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (7776 in chips) 
+Seat 7: DanRussel (5724 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Th Td]
+blabart: calls 400
+DanRussel: raises 4874 to 5674 and is all-in
+blabart: calls 4874
+*** FLOP *** [4c 9c Ks]
+*** TURN *** [4c 9c Ks] [7c]
+*** RIVER *** [4c 9c Ks 7c] [4h]
+*** SHOW DOWN ***
+DanRussel: shows [Qs 4s] (three of a kind, Fours)
+blabart: shows [Th Td] (two pair, Tens and Fours)
+DanRussel collected 11448 from pot
+*** SUMMARY ***
+Total pot 11448 | Rake 0 
+Board [4c 9c Ks 7c 4h]
+Seat 6: blabart (button) (small blind) showed [Th Td] and lost with two pair, Tens and Fours
+Seat 7: DanRussel (big blind) showed [Qs 4s] and won (11448) with three of a kind, Fours
+
+
+
+PokerStars Hand #244550528994: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:28:14 CET [2023/06/30 15:28:14 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (2052 in chips) 
+Seat 7: DanRussel (11448 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [5s 7c]
+DanRussel: raises 10598 to 11398 and is all-in
+blabart: calls 1202 and is all-in
+Uncalled bet (9396) returned to DanRussel
+*** FLOP *** [Ad 8d 5h]
+*** TURN *** [Ad 8d 5h] [5c]
+*** RIVER *** [Ad 8d 5h 5c] [Qc]
+*** SHOW DOWN ***
+blabart: shows [5s 7c] (three of a kind, Fives)
+DanRussel: shows [8h 9c] (two pair, Eights and Fives)
+blabart collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | Rake 0 
+Board [Ad 8d 5h 5c Qc]
+Seat 6: blabart (big blind) showed [5s 7c] and won (4104) with three of a kind, Fives
+Seat 7: DanRussel (button) (small blind) showed [8h 9c] and lost with two pair, Eights and Fives
+
+
+
+PokerStars Hand #244550535429: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:28:33 CET [2023/06/30 15:28:33 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (4104 in chips) 
+Seat 7: DanRussel (9396 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [9s 9d]
+blabart: calls 400
+DanRussel: checks 
+*** FLOP *** [3s As Td]
+DanRussel: checks 
+blabart: bets 3254 and is all-in
+DanRussel: folds 
+Uncalled bet (3254) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [3s As Td]
+Seat 6: blabart (button) (small blind) collected (1700)
+Seat 7: DanRussel (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550540512: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:28:48 CET [2023/06/30 15:28:48 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (4954 in chips) 
+Seat 7: DanRussel (8546 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [5d Kh]
+DanRussel: raises 7696 to 8496 and is all-in
+blabart: folds 
+Uncalled bet (7696) returned to DanRussel
+DanRussel collected 1700 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 6: blabart (big blind) folded before Flop
+Seat 7: DanRussel (button) (small blind) collected (1700)
+
+
+
+PokerStars Hand #244550543751: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:28:57 CET [2023/06/30 15:28:57 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (4104 in chips) 
+Seat 7: DanRussel (9396 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [4c 6h]
+blabart: calls 400
+DanRussel: checks 
+*** FLOP *** [Kd 6s 4h]
+DanRussel: checks 
+blabart: bets 3254 and is all-in
+DanRussel: folds 
+Uncalled bet (3254) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Kd 6s 4h]
+Seat 6: blabart (button) (small blind) collected (1700)
+Seat 7: DanRussel (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550549333: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:29:14 CET [2023/06/30 15:29:14 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (4954 in chips) 
+Seat 7: DanRussel (8546 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [5h 3s]
+DanRussel: calls 400
+blabart: checks 
+*** FLOP *** [3d 7s Td]
+blabart: bets 800
+DanRussel: folds 
+Uncalled bet (800) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [3d 7s Td]
+Seat 6: blabart (big blind) collected (1700)
+Seat 7: DanRussel (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550554333: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:29:29 CET [2023/06/30 15:29:29 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (5804 in chips) 
+Seat 7: DanRussel (7696 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [8c Qc]
+blabart: calls 400
+DanRussel: raises 6846 to 7646 and is all-in
+blabart: folds 
+Uncalled bet (6846) returned to DanRussel
+DanRussel collected 1700 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 6: blabart (button) (small blind) folded before Flop
+Seat 7: DanRussel (big blind) collected (1700)
+
+
+
+PokerStars Hand #244550557136: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:29:37 CET [2023/06/30 15:29:37 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (4954 in chips) 
+Seat 7: DanRussel (8546 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Ad 4h]
+DanRussel: folds 
+Uncalled bet (400) returned to blabart
+blabart collected 900 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 6: blabart (big blind) collected (900)
+Seat 7: DanRussel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550559914: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:29:45 CET [2023/06/30 15:29:45 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (5404 in chips) 
+Seat 7: DanRussel (8096 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Th Jh]
+blabart: calls 400
+DanRussel: checks 
+*** FLOP *** [9c 6h As]
+DanRussel: checks 
+blabart: bets 1700
+DanRussel: folds 
+Uncalled bet (1700) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [9c 6h As]
+Seat 6: blabart (button) (small blind) collected (1700)
+Seat 7: DanRussel (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550565159: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:30:01 CET [2023/06/30 15:30:01 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (6254 in chips) 
+Seat 7: DanRussel (7246 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [2s 3h]
+DanRussel: calls 400
+blabart: checks 
+*** FLOP *** [2c 5s Tc]
+blabart: checks 
+DanRussel: bets 6396 and is all-in
+blabart: folds 
+Uncalled bet (6396) returned to DanRussel
+DanRussel collected 1700 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [2c 5s Tc]
+Seat 6: blabart (big blind) folded on the Flop
+Seat 7: DanRussel (button) (small blind) collected (1700)
+
+
+
+PokerStars Hand #244550570142: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:30:15 CET [2023/06/30 15:30:15 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (5404 in chips) 
+Seat 7: DanRussel (8096 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [5s 7c]
+blabart: folds 
+Uncalled bet (400) returned to DanRussel
+DanRussel collected 900 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 6: blabart (button) (small blind) folded before Flop
+Seat 7: DanRussel (big blind) collected (900)
+
+
+
+PokerStars Hand #244550572320: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:30:21 CET [2023/06/30 15:30:21 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (4954 in chips) 
+Seat 7: DanRussel (8546 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Ad 9d]
+DanRussel: calls 400
+blabart: raises 800 to 1600
+DanRussel: folds 
+Uncalled bet (800) returned to blabart
+blabart collected 1700 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 6: blabart (big blind) collected (1700)
+Seat 7: DanRussel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550577176: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:30:36 CET [2023/06/30 15:30:36 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (5804 in chips) 
+Seat 7: DanRussel (7696 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [5d 7d]
+blabart: calls 400
+DanRussel: checks 
+*** FLOP *** [Ks 4s Th]
+DanRussel: bets 800
+blabart: folds 
+Uncalled bet (800) returned to DanRussel
+DanRussel collected 1700 from pot
+DanRussel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ks 4s Th]
+Seat 6: blabart (button) (small blind) folded on the Flop
+Seat 7: DanRussel (big blind) collected (1700)
+
+
+
+PokerStars Hand #244550581166: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:30:47 CET [2023/06/30 15:30:47 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (4954 in chips) 
+Seat 7: DanRussel (8546 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+DanRussel: posts small blind 400
+blabart: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [3d 8c]
+DanRussel: calls 400
+blabart: checks 
+*** FLOP *** [4c 9s Ad]
+blabart: checks 
+DanRussel: checks 
+*** TURN *** [4c 9s Ad] [8h]
+blabart: bets 800
+DanRussel: calls 800
+*** RIVER *** [4c 9s Ad 8h] [5s]
+blabart: bets 800
+DanRussel: folds 
+Uncalled bet (800) returned to blabart
+blabart collected 3300 from pot
+blabart: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [4c 9s Ad 8h 5s]
+Seat 6: blabart (big blind) collected (3300)
+Seat 7: DanRussel (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #244550589829: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XI (400/800) - 2023/06/30 21:31:12 CET [2023/06/30 15:31:12 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (6604 in chips) 
+Seat 7: DanRussel (6896 in chips) 
+blabart: posts the ante 50
+DanRussel: posts the ante 50
+blabart: posts small blind 400
+DanRussel: posts big blind 800
+*** HOLE CARDS ***
+Dealt to blabart [Ah 6d]
+blabart: calls 400
+DanRussel: checks 
+*** FLOP *** [Jh 3c 6c]
+DanRussel: bets 6046 and is all-in
+blabart: calls 5754 and is all-in
+Uncalled bet (292) returned to DanRussel
+*** TURN *** [Jh 3c 6c] [4h]
+*** RIVER *** [Jh 3c 6c 4h] [Jd]
+*** SHOW DOWN ***
+DanRussel: shows [3d 2s] (two pair, Jacks and Threes)
+blabart: shows [Ah 6d] (two pair, Jacks and Sixes)
+blabart collected 13208 from pot
+*** SUMMARY ***
+Total pot 13208 | Rake 0 
+Board [Jh 3c 6c 4h Jd]
+Seat 6: blabart (button) (small blind) showed [Ah 6d] and won (13208) with two pair, Jacks and Sixes
+Seat 7: DanRussel (big blind) showed [3d 2s] and lost with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #244550597403: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XII (600/1200) - 2023/06/30 21:31:34 CET [2023/06/30 15:31:34 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (13208 in chips) 
+Seat 7: DanRussel (292 in chips) 
+blabart: posts the ante 75
+DanRussel: posts the ante 75
+DanRussel: posts small blind 217 and is all-in
+blabart: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to blabart [5c 9c]
+Uncalled bet (983) returned to blabart
+*** FLOP *** [2s Kd 6s]
+*** TURN *** [2s Kd 6s] [8s]
+*** RIVER *** [2s Kd 6s 8s] [Qh]
+*** SHOW DOWN ***
+blabart: shows [5c 9c] (high card King)
+DanRussel: shows [4c Qs] (a pair of Queens)
+DanRussel collected 584 from pot
+*** SUMMARY ***
+Total pot 584 | Rake 0 
+Board [2s Kd 6s 8s Qh]
+Seat 6: blabart (big blind) showed [5c 9c] and lost with high card King
+Seat 7: DanRussel (button) (small blind) showed [4c Qs] and won (584) with a pair of Queens
+
+
+
+PokerStars Hand #244550600499: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XII (600/1200) - 2023/06/30 21:31:43 CET [2023/06/30 15:31:43 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (12916 in chips) 
+Seat 7: DanRussel (584 in chips) 
+blabart: posts the ante 75
+DanRussel: posts the ante 75
+blabart: posts small blind 600
+DanRussel: posts big blind 509 and is all-in
+*** HOLE CARDS ***
+Dealt to blabart [4d 2d]
+Uncalled bet (91) returned to blabart
+*** FLOP *** [9h 6h 4s]
+*** TURN *** [9h 6h 4s] [5h]
+*** RIVER *** [9h 6h 4s 5h] [9s]
+*** SHOW DOWN ***
+DanRussel: shows [9c Kc] (three of a kind, Nines)
+blabart: shows [4d 2d] (two pair, Nines and Fours)
+DanRussel collected 1168 from pot
+*** SUMMARY ***
+Total pot 1168 | Rake 0 
+Board [9h 6h 4s 5h 9s]
+Seat 6: blabart (button) (small blind) showed [4d 2d] and lost with two pair, Nines and Fours
+Seat 7: DanRussel (big blind) showed [9c Kc] and won (1168) with three of a kind, Nines
+
+
+
+PokerStars Hand #244550603654: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XII (600/1200) - 2023/06/30 21:31:52 CET [2023/06/30 15:31:52 ET]
+Table '3610895633 1' 9-max Seat #7 is the button
+Seat 6: blabart (12332 in chips) 
+Seat 7: DanRussel (1168 in chips) 
+blabart: posts the ante 75
+DanRussel: posts the ante 75
+DanRussel: posts small blind 600
+blabart: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to blabart [Ts 4h]
+DanRussel: calls 493 and is all-in
+Uncalled bet (107) returned to blabart
+*** FLOP *** [Kd As 8c]
+*** TURN *** [Kd As 8c] [5h]
+*** RIVER *** [Kd As 8c 5h] [6s]
+*** SHOW DOWN ***
+blabart: shows [Ts 4h] (high card Ace)
+DanRussel: shows [7d Th] (high card Ace - King+Ten+Eight+Seven kicker)
+DanRussel collected 2336 from pot
+*** SUMMARY ***
+Total pot 2336 | Rake 0 
+Board [Kd As 8c 5h 6s]
+Seat 6: blabart (big blind) showed [Ts 4h] and lost with high card Ace
+Seat 7: DanRussel (button) (small blind) showed [7d Th] and won (2336) with high card Ace
+
+
+
+PokerStars Hand #244550607856: Tournament #3610895633, $0.44+$0.06 USD Hold'em No Limit - Level XII (600/1200) - 2023/06/30 21:32:04 CET [2023/06/30 15:32:04 ET]
+Table '3610895633 1' 9-max Seat #6 is the button
+Seat 6: blabart (11164 in chips) 
+Seat 7: DanRussel (2336 in chips) 
+blabart: posts the ante 75
+DanRussel: posts the ante 75
+blabart: posts small blind 600
+DanRussel: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to blabart [Td Jh]
+blabart: calls 600
+DanRussel: raises 1061 to 2261 and is all-in
+blabart: calls 1061
+*** FLOP *** [Ac 8c 7h]
+*** TURN *** [Ac 8c 7h] [As]
+*** RIVER *** [Ac 8c 7h As] [7d]
+*** SHOW DOWN ***
+DanRussel: shows [9h 5d] (two pair, Aces and Sevens)
+blabart: shows [Td Jh] (two pair, Aces and Sevens - Jack kicker)
+blabart collected 4672 from pot
+DanRussel finished the tournament in 2nd place and received $1.18.
+blabart wins the tournament and receives $1.99 - congratulations!
+*** SUMMARY ***
+Total pot 4672 | Rake 0 
+Board [Ac 8c 7h As 7d]
+Seat 6: blabart (button) (small blind) showed [Td Jh] and won (4672) with two pair, Aces and Sevens
+Seat 7: DanRussel (big blind) showed [9h 5d] and lost with two pair, Aces and Sevens
+
+
+
